@@ -25,9 +25,10 @@ We will have to create the key parts of an IR system like the index, and then we
 We intend to evaluate our system using the relevant document pairs provided by the ROBUST dataset by computing the mean average precision
 
 After we have this initial system working we can try improve it based on the queries that we will be provided by TAS.
+
 = Outcome 
 An implementation in python of an information retrieval system that can provide you with relevant documents using a neural based approach in combination with lexical retrieval.
 
 == Footnote
-We do not have a third member listed on this document because we could not get in contact with them. We have tried e-mailing them, and looked in the discord, but nog heard anythhing. We hand this in with the knowledge that we are not a full team yet, but would like somebody that also wants to work on the first project.
+We do not have a third member listed on this document because we could not get in contact with them. We have tried e-mailing them, and looked in the discord, but not heard anythhing. We hand this in with the knowledge that we are not a full team yet, but would like somebody that also wants to work on the first project.
 
