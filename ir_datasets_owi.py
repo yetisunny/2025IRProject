@@ -97,7 +97,7 @@ class ParquetDocstore(Docstore):
 
 
 def register(batch_size: int = 2048):
-    base_path = "/Users/luuk/Uni/IR/2025IRProject/owiData"
+    base_path = "/home/luuk/Uni/IR/project/owiData"
 
     all_docs = ParquetDocs(f"{base_path}/documents/*.parquet", doc_cls=OWIDoc, batch_size=batch_size)
     subsampled_docs = ParquetDocs(f"{base_path}/subsampled-documents/*.parquet", doc_cls=OWIDoc, batch_size=batch_size)
