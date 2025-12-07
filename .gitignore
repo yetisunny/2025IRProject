@@ -1,2 +1,7 @@
 myvenv/
 owiData/
+__pycache__/
+colbert_encoded_docs/
+data/
+denseindex/
+pyserini_*/
