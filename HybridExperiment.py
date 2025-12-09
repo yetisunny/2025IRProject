@@ -34,38 +34,6 @@ for qrel in dataset.qrels_iter():
         qrels_dict[qrel.query_id] = {}
     qrels_dict[qrel.query_id][qrel.doc_id] = qrel.relevance
 
-def manual_hybrid_search(sparse_searcher, dense_searcher, query_text, k=1000, alpha=0.5):
-    """Manual hybrid search with proper fusion"""
-    # Get results from both
-    sparse_hits = sparse_searcher.search(query_text, k=k)
-    dense_hits = dense_searcher.search(query_text, k=k)
-    
-    # Normalize scores to [0,1]
-    def normalize_scores(hits):
-        if not hits:
-            return {}
-        scores = [hit.score for hit in hits]
-        min_score, max_score = min(scores), max(scores)
-        score_range = max_score - min_score if max_score > min_score else 1
-        return {hit.docid: (hit.score - min_score) / score_range for hit in hits}
-    
-    sparse_scores = normalize_scores(sparse_hits)
-    dense_scores = normalize_scores(dense_hits)
-    
-    # Combine scores: hybrid_score = alpha * dense + (1-alpha) * sparse
-    all_docids = set(sparse_scores.keys()) | set(dense_scores.keys())
-    
-    hybrid_scores = {}
-    for docid in all_docids:
-        sparse_score = sparse_scores.get(docid, 0)
-        dense_score = dense_scores.get(docid, 0)
-        hybrid_scores[docid] = alpha * dense_score + (1 - alpha) * sparse_score
-    
-    # Sort and return top k
-    sorted_docs = sorted(hybrid_scores.items(), key=lambda x: x[1], reverse=True)[:k]
-    
-    return [docid for docid, score in sorted_docs]
-
 def evaluate_searcher(searcher, searcher_name, k=1000, alpha=None):
     """Evaluate a searcher on the dataset"""
     print(f"\n{'='*60}")
@@ -97,11 +65,10 @@ def evaluate_searcher(searcher, searcher_name, k=1000, alpha=None):
         try:
             if alpha is not None:
                 # For hybrid searcher, pass alpha
-                hits = searcher.search(query_text, k=k, alpha=alpha)
+                hits = searcher.search(query_text, k=k, alpha=alpha,normalization=True)
             else:
                 hits = searcher.search(query_text, k=k)
             retrieved_docids = [hit.docid for hit in hits]
-            print(len(retrieved_docids))
         except Exception as e:
             print(f"Error searching for query {query_id}: {e}")
             continue
