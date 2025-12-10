@@ -5,3 +5,4 @@ colbert_encoded_docs/
 data/
 denseindex/
 pyserini_*/
+hs_err_*.log
