@@ -64,8 +64,21 @@
 )
 
 
+
 = Abstract
 this is something I must do hahah
+= Todo
+
+Experiment with different bm25 parameters.
+
+Try different hybrid search fusion parameters
+
+Re-rank different amounts of documents, right now we are just doing 
+
+Maybe try pagerank, but this is tricky 
+
+Discuss t
+
 #acmart-ccs(ccs)
 #acmart-keywords(keywords)
 #acmart-ref(to-string(title), authors, conference, doi)
@@ -74,10 +87,12 @@ this is something I must do hahah
 Information retrieval systems come in all shapes and sizes.
 == Paper overview
 something
+= Related Work
+Here we need to discuss the MS Marco dataset that the cross encoder we use was trained on. We might have to mention the fact that our dataset does or does not resemble that set very well, or it does. 
 = Methods <sec:methods>
 #set math.equation(numbering: "1.")
-
-= Acknowledgement
+In order to to effeciient retrieval on the document set we have built an lexical index.
+We have also used a = Acknowledgement
 
 #bibliography("refs.bib", title: "References", style: "royal-society-of-chemistry")
 
