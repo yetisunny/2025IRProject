@@ -1,4 +1,6 @@
 import os
+
+from pyserini.search.hybrid import HybridSearcher
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-21-openjdk"
 os.environ["PATH"] = os.environ["JAVA_HOME"] + "/bin:" + os.environ["PATH"]
 from pyserini.search.faiss import FaissSearcher
@@ -14,6 +16,7 @@ ir_datasets_owi.register()
 # Initialize searchers
 dense_searcher = FaissSearcher('colbert_encoded_docs/', 'castorini/tct_colbert-v2-hnp-msmarco')
 sparse_searcher = LuceneSearcher('pyserini_indexes/owi_sample_lucineindex')
+hybrid_searcher = HybridSearcher(dense_searcher,sparse_searcher)
 
 # Initialize CrossEncoder (MiniLM is fast and effective)
 reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
@@ -194,17 +197,26 @@ results = []
 bm25_results = evaluate_searcher(sparse_searcher, "BM25 (Lucene)", k=k, use_reranker=False)
 results.append(bm25_results)
 
-# BM25 + Cross-Encoder Reranking
-bm25_rerank_results = evaluate_searcher(sparse_searcher, "BM25 + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
-results.append(bm25_rerank_results)
-
 # Dense only
 dense_results = evaluate_searcher(dense_searcher, "Dense (FAISS)", k=k, use_reranker=False)
 results.append(dense_results)
 
+# Hybrid only
+hybrid_results = evaluate_searcher(hybrid_searcher, "Hybrid (bm25 + colbert dense  fusion)", k=k, use_reranker=False, rerank_top_k=100)
+results.append(hybrid_results)
+# Hybrid + Cross-Encoder Reranking
+hybrid_rerank_results = evaluate_searcher(hybrid_searcher, "Hybrid + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
+results.append(hybrid_rerank_results)
+
+# BM25 + Cross-Encoder Reranking
+bm25_rerank_results = evaluate_searcher(sparse_searcher, "BM25 + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
+results.append(bm25_rerank_results)
+
+
 # Dense + Cross-Encoder Reranking
 dense_rerank_results = evaluate_searcher(dense_searcher, "Dense + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
 results.append(dense_rerank_results)
+
 
 # Optional: Try different rerank_top_k values for BM25
 for rerank_k in [50, 200]:
