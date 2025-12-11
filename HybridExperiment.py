@@ -24,6 +24,17 @@ dataset = ir_datasets.load("owi/subsampled/dev")
 dense_searcher = FaissSearcher('colbert_encoded_docs/', 'castorini/tct_colbert-v2-hnp-msmarco')
 sparse_searcher = LuceneSearcher('pyserini_indexes/owi_sample_lucineindex')
 
+# --------------------
+# --------------------
+# --------------------
+# TO TRY!!!
+# in general values such as 0.5 <b< 0.8 and 1.2 < k1 < 2 are reasonably good in many circumstancies
+#sparse_searcher.set_bm25(k1=2, b=0.2)
+# --------------------
+# --------------------
+# --------------------
+
+
 # Load dataset
 dataset = ir_datasets.load("owi/subsampled/dev")
 
