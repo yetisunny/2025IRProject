@@ -11,7 +11,7 @@ import ir_datasets_owi
 # Load data
 ir_datasets_owi.register()
 
-sparse_searcher = LuceneSearcher('pyserini_indexes/owi_sample_lucineindex')
+sparse_searcher = LuceneSearcher('../../pyserini_indexes/owi_sample_lucineindex')
 
 # Initialize CrossEncoder (MiniLM is fast and effective)
 reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
@@ -53,7 +53,7 @@ def get_document_from_index(doc_id, searcher):
     except:
         return ""
 
-def evaluate_searcher(searcher, searcher_name, k=1000, use_reranker=False, rerank_top_k=100, eval_at_k=[5, 10, 20, 50, 100]):
+def evaluate_searcher(searcher, searcher_name, k=1000, use_reranker=False, rerank_top_k=100, eval_at_k=[10, 20, 50, 100]):
     """Evaluate a searcher on the dataset with optional cross-encoder reranking"""
     print(f"\n{'='*60}")
     print(f"Evaluating: {searcher_name}")
@@ -192,14 +192,15 @@ results = []
 bm25_results = evaluate_searcher(sparse_searcher, "BM25 (Lucene)", k=k, use_reranker=False)
 results.append(bm25_results)
 
-# BM25 + Cross-Encoder Reranking
-bm25_rerank_results = evaluate_searcher(sparse_searcher, "BM25 + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
-results.append(bm25_rerank_results)
+# # BM25 + Cross-Encoder Reranking
+# bm25_rerank_results = evaluate_searcher(sparse_searcher, "BM25 + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
+# results.append(bm25_rerank_results)
 
-for rerank_k in [50, 200]:
+#test with reanking the top x
+for rerank_k in [10,25,50,100]:
     bm25_rerank = evaluate_searcher(
         sparse_searcher,
-        f"BM25 + CE (top-{rerank_k})",
+        f"BM25 + CrossEncoder (top-{rerank_k})",
         k=k,
         use_reranker=True,
         rerank_top_k=rerank_k
@@ -210,17 +211,17 @@ for rerank_k in [50, 200]:
 print(f"\n{'='*80}")
 print("SUMMARY - Precision Comparison")
 print('='*80)
-print(f"{'Method':<25} | {'P@5':<7} | {'P@10':<7} | {'P@20':<7} | {'P@50':<7} | {'P@100':<7}")
+print(f"{'Method':<25} | {'P@10':<7} | {'P@20':<7} | {'P@50':<7} | {'P@100':<7}")
 print("-"*80)
 for result in results:
-    print(f"{result['name']:<25} | {result['p@5']:.4f}  | {result['p@10']:.4f}  | "
-          f"{result['p@20']:.4f}  | {result['p@50']:.4f}  | {result['p@100']:.4f}")
+    print(f"{result['name']:<25} | {result['p@10']:.4f}  | {result['p@20']:.4f}  | "
+          f"{result['p@50']:.4f}  | {result['p@100']:.4f}")
 
 print(f"\n{'='*80}")
 print("SUMMARY - Recall & NDCG Comparison")
 print('='*80)
-print(f"{'Method':<25} | {'MRR':<7} | {'R@10':<7} | {'R@50':<7} | {'NDCG@10':<7} | {'NDCG@50':<7}")
+print(f"{'Method':<25} | {'MRR':<7} | {'R@10':<7} | {'R@20':<7} | {'NDCG@10':<7} | {'NDCG@50':<7}")
 print("-"*80)
 for result in results:
     print(f"{result['name']:<25} | {result['mrr']:.4f}  | {result['r@10']:.4f}  | "
-          f"{result['r@50']:.4f}  | {result['ndcg@10']:.4f}  | {result['ndcg@50']:.4f}")
+          f"{result['r@20']:.4f}  | {result['ndcg@10']:.4f}  | {result['ndcg@50']:.4f}")

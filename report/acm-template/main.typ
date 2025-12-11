@@ -2,19 +2,18 @@
 
 #let cuhk = super(sym.suit.spade)
 
-#let title = [
-  Information Retrieval Project
-]
+#let title = [Information Retrieval From "Scratch" project]
+
 #let authors = (
+  // You can use grouped affiliations with mark
   (
-    // Should I use string or content? It doesn't matter
-  name: "luuk van der heijden",
-    email: "email1@email.com",
-    mark: super(sym.suit.diamond),
+    name: [Luuk van der Heijden Hu],
+    email: [jlhu\@cse.cuhk.edu.hk],
+    mark: cuhk,
   ),
   (
     // Should I use string or content? It doesn't matter
-    name: "Jacoppo van der heijden Surname2",
+    name: "Jacoppo Surname2",
     email: "email2@email.com",
     mark: super(sym.suit.diamond),
   ),
@@ -30,16 +29,16 @@
 )
 #let affiliations = (
   (
-    name: [Radoud],
+    name: [Radoub University],
     mark: cuhk,
-    department: [],
+    department: [Department of Computer Science and Engineering],
     // You can put any thing here, and they will automatically be appended below
     // city: [Hong Kong],
   ),
   (
-    name: [Institution/University Name],
+    name: [Radoud University],
     mark: super(sym.suit.diamond),
-    department: [Department Name],
+    department: [Department of Computer Science and Engineering],
   ),
   // More affiliations
 )
@@ -52,26 +51,38 @@
 )
 #let doi = "https://doi.org/10.1145/0000000000"
 #let ccs = (
+  (
+    generic: [Software and its engineering],
+    specific: ([Virtual machines], [Virtual memory], ),
+  ),
+  (
+    generic: [Computer systems organization],
+    specific: ([Heterogeneous (hybrid) systems], ),
+  ),
 )
-#let keywords = ()
+#let keywords = ("Virtual machine", "Virtual memory", "Operating system", )
 
 #show: acmart.with(
   title: title,
-  copyright: none,
-  
+  authors: authors,
+  affiliations: affiliations,
+  conference: conference,
+  doi: "",
+  copyright: "none",
   // Set review to submission ID for the review process or to "none" for the final version.
   // review: [\#001],
 )
 
 
 
+
 = Abstract
-this is something I must do hahah
+We have done some things
 = Todo
 
 Experiment with different bm25 parameters.
 
-Try different hybrid search fusion parameters
+Discuss that we tried hybrid search, but that the index size is prohibitive for the entire OWI document set. This might be fixeable if you had enough time, or got stuff working on the cluster, but we do not have that luxury.
 
 Re-rank different amounts of documents, right now we are just doing 
 
@@ -84,15 +95,32 @@ Discuss t
 #acmart-ref(to-string(title), authors, conference, doi)
 
 = Introduction
-Information retrieval systems come in all shapes and sizes.
+Here we talk about information retrieval.
 == Paper overview
 something
 = Related Work
 Here we need to discuss the MS Marco dataset that the cross encoder we use was trained on. We might have to mention the fact that our dataset does or does not resemble that set very well, or it does. 
 = Methods <sec:methods>
 #set math.equation(numbering: "1.")
-In order to to effeciient retrieval on the document set we have built an lexical index.
-We have also used a = Acknowledgement
+Explain the evaluation methods we use, MRR\@k, precision\@k, recall\@k, NDCG\@k 
+
+= Results
+
+#show table.cell.where(y: 0): strong
+
+#table(
+  columns: 5,
+  table.header[Method][P10][P20][P50][P100],
+  [bm25], [1],[1],[1],[1]
+)
+#table(
+  columns: 5,
+  table.header[Method][MRR][R20][NDCG10][NDCG50],
+  [RR10], [1],[1],[1],[1],
+  [RR20], [1],[1],[1],[1],
+)
+= Discussion
+#lorem(300)
 
 #bibliography("refs.bib", title: "References", style: "royal-society-of-chemistry")
 
