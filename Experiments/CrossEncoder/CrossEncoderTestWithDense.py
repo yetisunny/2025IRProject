@@ -1,10 +1,10 @@
 import os
 
-from pyserini.search.hybrid import HybridSearcher
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-21-openjdk"
 os.environ["PATH"] = os.environ["JAVA_HOME"] + "/bin:" + os.environ["PATH"]
 from pyserini.search.faiss import FaissSearcher
 from pyserini.search.lucene import LuceneSearcher
+from pyserini.search.hybrid import HybridSearcher
 from sentence_transformers import CrossEncoder
 import ir_datasets
 import numpy as np
@@ -14,8 +14,8 @@ import ir_datasets_owi
 ir_datasets_owi.register()
 
 # Initialize searchers
-dense_searcher = FaissSearcher('colbert_encoded_docs/', 'castorini/tct_colbert-v2-hnp-msmarco')
-sparse_searcher = LuceneSearcher('pyserini_indexes/owi_sample_lucineindex')
+dense_searcher = FaissSearcher('../../colbert_encoded_docs/', 'castorini/tct_colbert-v2-hnp-msmarco')
+sparse_searcher = LuceneSearcher('../../pyserini_indexes/owi_sample_lucineindex')
 hybrid_searcher = HybridSearcher(dense_searcher,sparse_searcher)
 
 # Initialize CrossEncoder (MiniLM is fast and effective)
