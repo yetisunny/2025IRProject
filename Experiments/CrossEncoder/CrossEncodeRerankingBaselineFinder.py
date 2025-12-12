@@ -232,7 +232,7 @@ bm25_results = evaluate_searcher(sparse_searcher, "BM25 (Lucene)", k=k, use_rera
 results.append(bm25_results)
 
 # Test with reranking the top x
-for rerank_k in [10, 25, 50, 100, 200]:
+for rerank_k in [10, 25, 50, 100, 200,1000]:
     bm25_rerank = evaluate_searcher(
         sparse_searcher,
         f"BM25 + CrossEncoder (top-{rerank_k})",
