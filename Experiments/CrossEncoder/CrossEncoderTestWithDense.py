@@ -230,20 +230,17 @@ results = []
 experiment_start = time.time()
 
 # BM25 only
-bm25_results = evaluate_searcher(sparse_searcher, "BM25 (Lucene)", k=k, use_reranker=False)
+bm25_results = evaluate_searcher(sparse_searcher, "BM25", k=k, use_reranker=False)
 results.append(bm25_results)
 
 # Dense only
-dense_results = evaluate_searcher(dense_searcher, "Dense (FAISS)", k=k, use_reranker=False)
+dense_results = evaluate_searcher(dense_searcher, "Dense Colbert", k=k, use_reranker=False)
 results.append(dense_results)
 
 # Hybrid only
-hybrid_results = evaluate_searcher(hybrid_searcher, "Hybrid (bm25 + colbert dense fusion)", k=k, use_reranker=False)
+hybrid_results = evaluate_searcher(hybrid_searcher, "Hybrid", k=k, use_reranker=False)
 results.append(hybrid_results)
 
-# Hybrid + Cross-Encoder Reranking
-hybrid_rerank_results = evaluate_searcher(hybrid_searcher, "Hybrid + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
-results.append(hybrid_rerank_results)
 
 # BM25 + Cross-Encoder Reranking
 bm25_rerank_results = evaluate_searcher(sparse_searcher, "BM25 + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
@@ -253,17 +250,21 @@ results.append(bm25_rerank_results)
 dense_rerank_results = evaluate_searcher(dense_searcher, "Dense + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
 results.append(dense_rerank_results)
 
-# Optional: Try different rerank_top_k values for BM25
-for rerank_k in [50, 200]:
-    bm25_rerank = evaluate_searcher(
-        sparse_searcher,
-        f"BM25 + CE (top-{rerank_k})",
-        k=k,
-        use_reranker=True,
-        rerank_top_k=rerank_k
-    )
-    results.append(bm25_rerank)
+# Hybrid + Cross-Encoder Reranking
+hybrid_rerank_results = evaluate_searcher(hybrid_searcher, "Hybrid + CrossEncoder", k=k, use_reranker=True, rerank_top_k=100)
+results.append(hybrid_rerank_results)
 
+# # Optional: Try different rerank_top_k values for BM25
+# for rerank_k in [50, 200]:
+#     bm25_rerank = evaluate_searcher(
+#         sparse_searcher,
+#         f"BM25 + CE (top-{rerank_k})",
+#         k=k,
+#         use_reranker=True,
+#         rerank_top_k=rerank_k
+#     )
+#     results.append(bm25_rerank)
+#
 total_experiment_time = time.time() - experiment_start
 
 # Summary comparison
