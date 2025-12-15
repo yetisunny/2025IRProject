@@ -270,11 +270,11 @@ total_experiment_time = time.time() - experiment_start
 print(f"\n{'='*80}")
 print("SUMMARY - Performance Metrics")
 print('='*80)
-print(f"{'Method':<25} | {'P@5':<7} | {'P@10':<7} | {'NDCG@10':<7} | {'MRR':<7}")
+print(f"{'Method':<25} | {'MRR':<7} | {'R@10':<7} | {'R@20':<7} | {'NDCG@10':<8} | {'NDCG@50':<8}")
 print("-"*80)
 for result in results:
-    print(f"{result['name']:<25} | {result['p@5']:.4f}  | {result['p@10']:.4f}  | "
-          f"{result['ndcg@10']:.4f}  | {result['mrr']:.4f}")
+    print(f"{result['name']:<25} | {result['mrr']:.4f}  | {result['r@10']:.4f}  | "
+          f"{result['r@20']:.4f}  | {result['ndcg@10']:.4f}   | {result['ndcg@50']:.4f}")
 
 print(f"\n{'='*80}")
 print("SUMMARY - Timing Analysis")
