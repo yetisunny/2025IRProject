@@ -1,0 +1,1212 @@
+================================================================================
+Top-3 Results for: Hybrid_CrossEncoder
+================================================================================
+
+Query ID: 1
+Query: american civil war
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 50fb3ed08736faa8453476bb42146890eb33620f15bbc06f1df5685cb97db878 | Score: 82.3208
+{
+  "id" : "50fb3ed08736faa8453476bb42146890eb33620f15bbc06f1df5685cb97db878",
+  "contents" : "The main conflict of the American Civil War Lock\n\n<h1>The main conflict</h1>\n\nLock\n\n<p>The American Civil War (1861-1865) is one of the most expensive and deadly wars that has ever been carried out on US territory. The war was caused by growing tensions between Southern and Northern states over the institution of slavery, over other financial and political matters, and over the expansion of the U...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: dae0008426d07cf141a211b6dc3746196c2d45c456a7003d07dbfb48c520bcdd | Score: 82.7436
+{
+  "id" : "dae0008426d07cf141a211b6dc3746196c2d45c456a7003d07dbfb48c520bcdd",
+  "contents" : "American Civil War | Bartleby <h1>American Civil War</h1>\n\nSort By:\nPage 1 of 50 - About 500 essays\n<ul>\n  <li>\nDecent Essays\n<a href=\"/essay/American-War-And-The-American-Civil-War-PKEDAJBV36Z3W\"></a>\n\n  <p>then caused the Southern states of America to decide to leave the American Union and create their own Southern Confederacy. This tore our nation apart. The American Civil War had begun a...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 96f3f2c3abdae7e9b67243460aa4b3dac548b91515df0a437f35d6e511b1eb03 | Score: 82.7043
+{
+  "id" : "96f3f2c3abdae7e9b67243460aa4b3dac548b91515df0a437f35d6e511b1eb03",
+  "contents" : "American Civil War Pendraken\n<a href=\"#0\"></a>\n\n<h1>American Civil War</h1>\n\n<p>The American Civil War (ACW) was fought between the United States (Union) and Confederated States (Confederacy) from 1861 to 1865. The Confederacy consisted of states that opposed the abolishment of slavery. Whilst both sides tended to use the same weapons and equipment, the Union typically had blue uniforms and the ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 2
+Query: white shoes cleaning
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 95c751b31a998ceb5b1b6bedfc093235b19519814754c58e7fa2579e8cd7bd2b | Score: 83.1172
+{
+  "id" : "95c751b31a998ceb5b1b6bedfc093235b19519814754c58e7fa2579e8cd7bd2b",
+  "contents" : "How to Clean Your Shoes : 7 Steps - Instructables <h2>Introduction: How to Clean Your Shoes</h2>\n\n<p>Here's how to clean your white shoes</p>\n\n<h2>Step 1: Get All Items Together</h2>\n\n<p>get your toothpaste and toothbrush and bleach, water, bowl and the shoes your using of course</p>\n\n<h2>Step 2: Put the Bleach and Water Together for Shoelaces</h2>\n\n<p>Add the bleach and water to the bowl to ...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 40ff118fd6100fa1931a360ab93cab1205ba3d5e30e2a4e8e690c7d2b0e0e06a | Score: 83.2441
+{
+  "id" : "40ff118fd6100fa1931a360ab93cab1205ba3d5e30e2a4e8e690c7d2b0e0e06a",
+  "contents" : "How to Clean White Shoes with Shaving Cream | ehow <h1> How to Clean White Shoes with Shaving Cream </h1>\n\neHow may earn compensation through affiliate links in this story. Learn more about our affiliate and product review process <a href=\"/about#editorial-process\">here</a>.\nClean white sneakers with shaving cream to keep them white.\nImage Credit: BananaStock/BananaStock/Getty Images\n\n<p>Return...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 054b76844ac5daf395a69456e35aa67409ec942a61533d1d24802c81cfeec554 | Score: 82.8809
+{
+  "id" : "054b76844ac5daf395a69456e35aa67409ec942a61533d1d24802c81cfeec554",
+  "contents" : "How to Keep Sneakers White, According to Experts | NBC Select IE 11 is not supported. For an optimal experience visit our site on another browser.\n\n<h1>How to keep white sneakers clean — and not be afraid of wearing them in the future</h1>\n\nFrom stain repellent spray to sneaker wipes, here are the products worth considering.\nAside from washing them, you can keep shoes clean by using the right prod...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 5
+Query: Safest vehicles
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: d83d6881f6cbb362eba36cfaa234b4ad6ce7536412315a1cbf54b05c7c466e62 | Score: 81.3582
+{
+  "id" : "d83d6881f6cbb362eba36cfaa234b4ad6ce7536412315a1cbf54b05c7c466e62",
+  "contents" : "Advertiser.ie - Euro NCAP reveals safest cars by class from 2015 <h1>Euro NCAP reveals safest cars by class from 2015</h1>\n\n<p> Euro NCAP has revealed the Best in Class cars of 2015 out of 40 vehicles released during a very busy year.</p>\n\n<p>In 2015, the new full width frontal test has, as was hoped, had a significant influence on the fitment of rear seatbelt pre-tensioners and load-limiters acros...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: f2779ad3fa32f6a5f97b2175e2539038fa760fea8d1746d1d1aef9d9ac3b5bd4 | Score: 81.4919
+{
+  "id" : "f2779ad3fa32f6a5f97b2175e2539038fa760fea8d1746d1d1aef9d9ac3b5bd4",
+  "contents" : "2013 Hyundai Santa Fe named safest in its class by EuroNCAP | CarSession <p>2013 Hyundai New Generation Santa Fe has been named as the safest car in its class assessed by Euro NCAP during 2012.  Its scores across all test categories were best-in-class, making it one of the safest vehicles ever tested by the independent vehicle assessment organisation and the best in the &quot;Large Off-Road 4×4&quot; s...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 9d1f324ad8f6e9865b5d765b57de1bc04b93d1dd27e8744ba1503219b7143b53 | Score: 81.0497
+{
+  "id" : "9d1f324ad8f6e9865b5d765b57de1bc04b93d1dd27e8744ba1503219b7143b53",
+  "contents" : "Ranking the Safest Nissan Vehicles in 2024 - NICOclub"
+}...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 6
+Query: Nautical mile
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 9ed112de5b27ef087565677776f00ef64843063dab22999c9ad89c5c068cdafd | Score: 82.9345
+{
+  "id" : "9ed112de5b27ef087565677776f00ef64843063dab22999c9ad89c5c068cdafd",
+  "contents" : "Nautical Miles to UK Nautical Miles conversion <h1>Nautical Miles to UK Nautical Miles</h1>\n\n<a href=\"/\"></a>\n\n<h3>Select the unit you wish to convert from</h3>\n\n<p> </p>\n\n<p>\n\n<p>\n\n<h2>There is more than one type of Nautical Mile</h2>\n\n<p>There are a few different types of Nautical Mile. On this site we have conversions for US Nautical miles, UK Nautical miles and International Nautica...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 1f4f93f2314340708c2b803ce438a224b52dbdba379562c33c7dc9ccf786a088 | Score: 83.1796
+{
+  "id" : "1f4f93f2314340708c2b803ce438a224b52dbdba379562c33c7dc9ccf786a088",
+  "contents" : "How much is1 nautical mile? - Answers <a href=\"https://www.answers.com/\">answersLogoWhite</a>\n<a href=\"https://www.answers.com/notifications\"></a>\n\n<p>0</p>\n\n<p>1 nautical mile = 1.85200 kilometers</p>\n\n<p>1 nautical mile = 1.15077945 mile</p>\n\n<a href=\"\">User Avatar</a><a href=\"https://www.answers.com/page/wiki-users\">\n\n<p>Wiki User</p>\n\n</a>13y ago\n\n<h3>What else can I help you...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 1ad0604927cba89ec5f45487783c56437b74e3c2decc0fc89cdf383e58023c70 | Score: 81.9750
+{
+  "id" : "1ad0604927cba89ec5f45487783c56437b74e3c2decc0fc89cdf383e58023c70",
+  "contents" : "Convert nautical miles to pace (spanish) - length converter Converter\n<h6>You are currently converting length units from nautical mile to pace (spanish) </h6>\n<h5>1 miles = 1329.313809934 paso</h5>\n<h5>nautical mile</h5>\nmiles\n<a href=\"javascript:submitForm();\">GO</a>\n<a href=\"javascript:submitForm(document.f1.unit2.value,document.f1.unit1.value,'/convert-length-from-paso-to-nauticalmile.html'...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 9
+Query: biggest church milan
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 53aef03983e1be38ca35846cf6251ab9bcfb01747c53da47badc30fbcbeb9460 | Score: 83.1022
+{
+  "id" : "53aef03983e1be38ca35846cf6251ab9bcfb01747c53da47badc30fbcbeb9460",
+  "contents" : "Church of Scientology of Milano <h1> CHURCH OF SCIENTOLOGY OF MILANO </h1>\n\n<p> The Church serves Italy’s Lombardy region and the largest congregation of Scientologists in the country. </p>\n\n<h4>\nGRAND OPENING EVENT </h4>\n\n<a href=\"/scientology-today/church-openings/grand-opening-church-of-scientology-milano-italy.html\">\nA Mega Ideal Org for Milan Greets the World\n<h5> A Mega Ideal Org for M...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: d6746833cec67c6328d3276aa3c63f3db220e9f779debda2da06b2cfb4f267ba | Score: 83.1032
+{
+  "id" : "d6746833cec67c6328d3276aa3c63f3db220e9f779debda2da06b2cfb4f267ba",
+  "contents" : "A Mega Ideal Org for Milan Greets the World\n <h3>MILAN, ITALY</h3>\n\n<h1> A MEGA IDEAL ORG FOR MILAN GREETS THE WORLD </h1>\n\n<h3>OCTOBER 31, 2015</h3>\n\n<p> Thousands gather to celebrate in Italy’s cultural and fashion mecca, now home to the largest Ideal Scientology Organization on the planet. </p>\n\n<p>In yet another historic achievement during a year of unparalleled advances for the Scientolog...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 7402a2209beb2944e4e1a4acc9e70d2357ddcc842298a802d963af2c3f44b33e | Score: 83.9102
+{
+  "id" : "7402a2209beb2944e4e1a4acc9e70d2357ddcc842298a802d963af2c3f44b33e",
+  "contents" : "Visit Milan: Best of Milan Tourism | Expedia Travel Guide <h1>Milan</h1>\n\nTravel Guide\nGalleria Vittorio Emanuele II which includes heritage architecture, night scenes and a castle\nWander the streets of Italy’s stylish northern capital to discover its artistic legacy, its culture of fashion and one of the largest churches in the world.\n\n<p>The capital of Italy’s Lombardy region is a pulsating met...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 10
+Query: best networking methods
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 0384b76560f7f2313e8f3f97da58d36c1027def55573851fbd515b48a70a96fb | Score: 79.8279
+{
+  "id" : "0384b76560f7f2313e8f3f97da58d36c1027def55573851fbd515b48a70a96fb",
+  "contents" : "The Role of Networking in Business Recruitment | TheBusinessDesk.com <h1>The Role of Networking in Business Recruitment</h1>\n\n<p>In today’s competitive job market, finding top talent can be a daunting task. Traditional recruitment methods often fall short in identifying the best candidates.</p>\n\n<p>Networking, however, has proven to be an invaluable tool in the recruitment process. This article exp...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: f10985a5a7348381d8feab974524412f3c032461d8f6959126ea3ccef94e0489 | Score: 79.9600
+{
+  "id" : "f10985a5a7348381d8feab974524412f3c032461d8f6959126ea3ccef94e0489",
+  "contents" : "The 4 Best Wi-Fi Mesh-Networking Systems of 2025 | Reviews by Wirecutter <p>Advertisement</p>\n\n<a href=\"#after-dfp-ad-top\">SKIP ADVERTISEMENT</a>\n<ol>\n  <li><a href=\"/wirecutter/electronics/\">Electronics</a></li>\n  <li><a href=\"/wirecutter/electronics/networking/\">Networking</a></li>\n</ol>\n\n<h1>The Best Wi-Fi Mesh-Networking Systems</h1>\n\nUpdated\n<a href=\"https://x.com/intent/post?tex...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: af3d09af69d014bc64857192cc662d1b53407cd84a13f905262236574010e0e6 | Score: 79.6298
+{
+  "id" : "af3d09af69d014bc64857192cc662d1b53407cd84a13f905262236574010e0e6",
+  "contents" : "'Hybrid' Quantum Networking Demonstrated for First Time | Scientific American <h1>\n\n<p>‘Hybrid’ Quantum Networking Demonstrated for First Time</p></h1>\n\n<p>By exploiting the wave-and-particle-like nature of light, a new technique offers the best of both worlds</p>\n\n<p>In a world’s first, researchers in France and the U.S. have performed a pioneering experiment demonstrating “hybrid” quantum netwo...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 11
+Query: allergy friendly cats
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 475641c28cb4c1d9e8e624fd82043da97fb358fb2ff216f2a62c169f32183d79 | Score: 81.0921
+{
+  "id" : "475641c28cb4c1d9e8e624fd82043da97fb358fb2ff216f2a62c169f32183d79",
+  "contents" : "Allergy Treatment for Cats & Dogs - AnimaPlus Veterinary Group Inc.\n <h1>Allergies</h1>\n\n<p>Like humans, your pet may suffer from seasonal or chronic allergies. The first signs often include itching, redness, and eye or ear infections. Living with a pet affected by allergies can be challenging, but there are several solutions to help eliminate or reduce their symptoms.</p>\n\n<p>If you notice any si...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 855310526fbea5b4d9c65fa630b9bbc2ceffae139051024b98cab878c9434a53 | Score: 81.9255
+{
+  "id" : "855310526fbea5b4d9c65fa630b9bbc2ceffae139051024b98cab878c9434a53",
+  "contents" : "Pet Dander Allergy - What causes it and how to find relief? | Allergy Insider <h1>Pet Dander Allergy - What causes it and how to find relief?</h1>\n\n<p>September 2023   Luke Lemons  |  ✓  Medically Reviewed by:  Gary Falcetano, PA-C, AE-C</p>\n\n<p>The classic pet-owner tragedy: loving your furry friend, yet also suffering allergy symptoms because of them. For many people with pet allergies, it's beli...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: f2a3ac8d485c2bbe46be17e0b017cb24d85d43f6d4b10c671955629f1850b417 | Score: 81.1034
+{
+  "id" : "f2a3ac8d485c2bbe46be17e0b017cb24d85d43f6d4b10c671955629f1850b417",
+  "contents" : "Cat Allergy <a href=\"https://www.cat-health-guide.org/\">Home</a>\n\n<h1>Cat Allergy</h1>\n\n<p> </p>\n\n<a href=\"\"> <a href=\"\"> <a href=\"\"> <a href=\"\">\n\n<p>\n\n<p>&quot;Cat allergy is very common with approximately 15% of cats having some type of allergy. Allergic reactions in cats are different than what happens in people. In humans, allergies usually cause problems with breathing. In cats...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 12
+Query: Hiphop dance competitions
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 959ee386e5d73ec40b0dd55965d6f5c32f4c33039c3bd3152b83dbe8e71830a8 | Score: 83.2562
+{
+  "id" : "959ee386e5d73ec40b0dd55965d6f5c32f4c33039c3bd3152b83dbe8e71830a8",
+  "contents" : "CrossOver from Davao City declared champion in T'nalak Festival 2015 Mindanao-wide Hip-hop Competition <p> </p>\n\n<a href=\"https://www.southcotabatonews.com/\"></a><br>\n\n<p>\n\n<h1>CrossOver from Davao City declared champion in T'nalak Festival 2015 Mindanao-wide Hip-hop Competition</h1>\n\nHip-hop dancers from Davao City went home Wednesday with the top prize of P30,000 from the Mindanao-wide Hip-...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: b9f46ad003bff6d55c5059a2d89bcead421bf8690687002d982270dc67286f99 | Score: 83.7426
+{
+  "id" : "b9f46ad003bff6d55c5059a2d89bcead421bf8690687002d982270dc67286f99",
+  "contents" : "HipHop | Backstage Studio  <a href=\"#main-content\"> Skip to main content </a>\n<a href=\"\">\n\n<h1> HipHop </h1>\n\n<p>HipHop is part of a youth culture that has emerged in the streets of New York City in the 1970s. Rap, DJing, B-Boying (Breakdance) and Graffity-Writing are the most important elements. HipHop dance was derived from Breakdance and renounced the powerful ground-acrobatic elements. Old...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 9f3726c8b78470f4cb164cb8653895aea9449218c683316bb6860888e3744f54 | Score: 83.4743
+{
+  "id" : "9f3726c8b78470f4cb164cb8653895aea9449218c683316bb6860888e3744f54",
+  "contents" : "Hip Hop Festival Registration Form Template | Jotform <h2>Dance Registration Forms</h2>\n\n19 Templates\n<a href=\"https://www.jotform.com/form-templates/dance-registration-form\">\n\n<h3>Dance Registration Form</h3>\n\n</a>\n\n<p>The Dance Registration Form, applicable to register a course, academy, or to enter a contest, or a festival, allows collecting registrant personal/contact information, asks t...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 14
+Query: LeBron James GOAT debate
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: a75f211338a7dc26201564b9b029acb14a0cbd1549d80c7c094e82c8a9ecf571 | Score: 86.3404
+{
+  "id" : "a75f211338a7dc26201564b9b029acb14a0cbd1549d80c7c094e82c8a9ecf571",
+  "contents" : "Giannis Antetokounmpo of the Milwaukee Bucks has an unconventional answer to the NBA GOAT debate | NBA News - The Times of India <ul>\n  <li><a href=\"https://timesofindia.indiatimes.com/\">News</a></li>\n  <li><a href=\"https://timesofindia.indiatimes.com/sports\">Sports News</a></li>\n  <li><a href=\"https://timesofindia.indiatimes.com/sports/nba\">NBA News</a></li>\n  <li>Giannis Antetokounmpo of th...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 043e1ef54c77a8f87a925aed0356df7545927e351dc006976b8f0466050cc481 | Score: 82.9068
+{
+  "id" : "043e1ef54c77a8f87a925aed0356df7545927e351dc006976b8f0466050cc481",
+  "contents" : "LeBron James ADMITS He's Not the GOAT - video Dailymotion <a href=\"#player-wrapper\">Skip to player</a><a href=\"#main\">Skip to main content</a><a href=\"#footer\">Skip to footer</a>\n<a href=\"/us\"></a>\n<ul>\n  <li>9/17/2017</li>\n</ul>\nThough he might’ve not used those words, Lebron did say there shouldn’t only be ONE greatest of all time in basketball. He then went on to compare basketball and ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: eebe8176069b45329a20d3d9c44dfc183c1c9a9a516ae941de87dcfd6ac7497f | Score: 83.5085
+{
+  "id" : "eebe8176069b45329a20d3d9c44dfc183c1c9a9a516ae941de87dcfd6ac7497f",
+  "contents" : "Is LeBron still chasing MJ as the GOAT? - video Dailymotion <a href=\"#player-wrapper\">Skip to player</a><a href=\"#main\">Skip to main content</a><a href=\"#footer\">Skip to footer</a>\n<a href=\"/us\"></a>\n<ul>\n  <li>5/11/2018</li>\n</ul>\nSportsPulse: Let's stop the madness. USA TODAY Sports' Trysta Krick explains why. Michael Jordan is still the GOAT and LeBron James is still chasing him.\n\n<h2...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 17
+Query: Lung Cancer
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: f6cfb1eb536fc1780912fa8c66c5a08196fb394d493bc6956aa48d9437fde40f | Score: 82.1630
+{
+  "id" : "f6cfb1eb536fc1780912fa8c66c5a08196fb394d493bc6956aa48d9437fde40f",
+  "contents" : "Lung Cancer and Imaging - IPEM Cover of Lung Cancer and Imaging\n\n<h1>Lung Cancer and Imaging</h1>\n\n<p>Published by Institute of Physics Publishing : December 2019: Series: IPEM-IOP Series in Physics and Engineering in Medicine and Biology</p>\n\n<p>Ayman El-Baz and Jasjit S Suri </p>\n\n<p>Lung cancer is one of the most common cancers in men and women worldwide. Early diagnosis of lung cancer can s...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 75b506e60741a60c5f7fa3174fa7c98ca5c6f93bcb17bed03233d2ca268934cf | Score: 82.4517
+{
+  "id" : "75b506e60741a60c5f7fa3174fa7c98ca5c6f93bcb17bed03233d2ca268934cf",
+  "contents" : "Lung Cancer—Patient Version - NCI <h1>Lung Cancer—Patient Version</h1>\n\n<h2>Overview</h2>\n\n<p>Lung cancer includes two main types: non-small cell lung cancer and small cell lung cancer. Smoking causes most lung cancers, but nonsmokers can also develop lung cancer. Explore the links on this page to learn more about lung cancer treatment, prevention, screening, statistics, research, clinical trials, ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: acb3243d6b9050f3a5b9bba4f56908b35d23a4786d0db287377fa9eb3aee58a6 | Score: 82.6573
+{
+  "id" : "acb3243d6b9050f3a5b9bba4f56908b35d23a4786d0db287377fa9eb3aee58a6",
+  "contents" : "Lung Cancer | Lung Cancer Care | Mercy Health <a href=\"\">\n\n<h2>What is lung cancer?</h2>\n\n<p>Cancer occurs when cells in the body grow abnormally. When this occurs in one or both of a person's lungs, it is known as lung cancer. If lung cancer spreads to other parts of the body, it is still called lung cancer because it started in the lung.</p>\n\n<p>There are three main types of lung cancer. Acco...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 19
+Query: Nuclear energy France
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: fa526e420fd95ba1198041cb66d4846bc3269414f8efd9436d755fcbddaa6867 | Score: 84.2925
+{
+  "id" : "fa526e420fd95ba1198041cb66d4846bc3269414f8efd9436d755fcbddaa6867",
+  "contents" : "Macron stresses importance of nuclear energy for France - World Nuclear News <h1>Macron stresses importance of nuclear energy for France</h1>\n\nWednesday, 9 December 2020\nFrench President Emmanuel Macron said yesterday that France's energy and ecological future depends on nuclear power. Speaking during a visit to Framatome's Le Creusot facility, Macron said the industry comprises 3000 companies and 2...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 065e4ec4881cd5c5aea194823fd1763f114fb8326074e8bf212ad60f8d5f9079 | Score: 83.3771
+{
+  "id" : "065e4ec4881cd5c5aea194823fd1763f114fb8326074e8bf212ad60f8d5f9079",
+  "contents" : "China, France pledge closer cooperation in civil nuclear energy\n - Business - Chinadaily.com.cn <a href=\"http://www.chinadaily.com.cn/\"></a>\n<a href=\"http://usa.chinadaily.com.cn\">US</a> <a href=\"http://europe.chinadaily.com.cn/\">EUROPE</a> <a href=\"http://africa.chinadaily.com.cn\">AFRICA</a> <a href=\"http://www.chinadailyasia.com/\">ASIA</a> <a href=\"http://cn.chinadaily.com.cn\">中文</a>\n<...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 55d7eab607088002295d59f98d817ac981c87d12dd0d6d23948412888a7f8e01 | Score: 83.9282
+{
+  "id" : "55d7eab607088002295d59f98d817ac981c87d12dd0d6d23948412888a7f8e01",
+  "contents" : "Nuclear Power Plants Are Struggling to Stay Cool | WIRED <h1>Nuclear Power Plants Are Struggling to Stay Cool</h1>\n\nClimate change is reducing output and raising safety concerns at nuclear facilities from France to the US. But experts say adapting is possible—and necessary.\nPower plant in France\nPhotograph: LOIC VENANCE/Getty Images\n\n<p>All products featured on WIRED are independently selected by...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 21
+Query: Gartner hype cycle
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 54b0a512440cfaa6755569c737acd870e0988cdf6787bea1449e1d3885930919 | Score: 85.2633
+{
+  "id" : "54b0a512440cfaa6755569c737acd870e0988cdf6787bea1449e1d3885930919",
+  "contents" : "What is the Gartner hype cycle in AI? - PC Guide <a href=\"https://www.pcguide.com/\">Home</a> &gt; AI\n\n<h1>What is the Gartner hype cycle in AI?</h1>\n\nIs it worth getting excited about?\nLast Updated on\n\n<p>Reviewed By: <a href=\"https://www.pcguide.com/author/kevin/\">Kevin Pocock</a></p>\n\nWhat is the Gartner hype cycle in AI?\nPC Guide is reader-supported. When you buy through links on our s...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 44813c761916b2578ed937ef9bf3a768a0de23052552b9a2ad988cbafdf13eff | Score: 84.3649
+{
+  "id" : "44813c761916b2578ed937ef9bf3a768a0de23052552b9a2ad988cbafdf13eff",
+  "contents" : "Gartner Hype Cycle: Retarus Listed as Sample Vendor Select Page\n\n<p>Retarus Press Release:</p>\n\n<h1>Cloud Fax Services are replacing fax server infrastructures</h1>\n\n<h2>Retarus Again Listed as a Sample Vendor for “Enterprise-Level Cloud Faxing” in Gartner Hype Cycle</h2>\n\n<p>Singapore, 31.08.2016 // Gartner’s recent “Hype Cycle for Imaging and Print Services, 2016”* report once again lists glo...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 642d597e669e29b2d870557ff1d8ccc346f66784d1507bd0b395f63b490a7d6a | Score: 82.8532
+{
+  "id" : "642d597e669e29b2d870557ff1d8ccc346f66784d1507bd0b395f63b490a7d6a",
+  "contents" : "News | solver <a href=\"\">\n\n<p>We constantly see that the main challenge in building a successful application using Frontline’s software is building, then running or solving an analytic model appropriate for your business situation. Indeed, we find that when users start a free trial of Analytic Solver in Excel, our RASON...</p>\n\n<a href=\"/news/have-you-used-our-example-models\">Read More</a>\n\n<...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 22
+Query: easiest filament 3d printing
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: f822d46b461b9f0d843cb312ebbfcb9e2318e1a4651551baa17d53bbc639fcb5 | Score: 85.5961
+{
+  "id" : "f822d46b461b9f0d843cb312ebbfcb9e2318e1a4651551baa17d53bbc639fcb5",
+  "contents" : "Best Filaments for 3D Printing 2025 | Tom's Hardware <p>\n\n<h1>Best Filaments for 3D Printing 2025</h1>\n\nBest Filaments for 3D Printing\n(Image credit: Tom's Hardware)\n\n<p>If you're printing with an FDM-style 3D printer (the most popular and user-friendly type), your printer feeds a roll of plastic (or other material) filament through a hot extruder and then deposits it on the print bed in layers....
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: a5f1ec82e43824e805cf4562bdf2874ef532699824d78a8dd9a3eb2b27b640b2 | Score: 84.9198
+{
+  "id" : "a5f1ec82e43824e805cf4562bdf2874ef532699824d78a8dd9a3eb2b27b640b2",
+  "contents" : "What are the best 3D printer filaments for beginners? <h1>What are the best 3D printer filaments for beginners?</h1>\n\nBy <br>\nUpload time :January 8, 2024\n2 <br>\nShares\n133 <br>\nReads\nTable of Contents\n<ul>\n</ul>\n<ul>\n\n  <p>Are you a beginner in the world of 3D printing and wondering which filaments are best suited for your needs? Look no further, as we’ve compiled a list of the top filame...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 094c43d542219b53b1f2f66fd321650c351f0feb07340ea4d2435732b4229e2e | Score: 83.9663
+{
+  "id" : "094c43d542219b53b1f2f66fd321650c351f0feb07340ea4d2435732b4229e2e",
+  "contents" : "3D Printing for Foot Orthotics | Algeos <a href=\"\">\n\n<h1> State-of-the-art 3D Printing </h1>\n\n<p>Introducing the VXC3DP Filament Cube from Voxelcare, a modular FDM unit containing a 3D printer that can operate as a single-unit system or combined with multiple VXC3DP Cubes to increase production output.</p>\n\n<h2> Choose. Customise. Produce. </h2>\n\n<p>The VXC3DP Filament Cube brings your custom...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 25
+Query: Oasis famous songs
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 66789c79f4803b726e45431b74fa4b9606739a5e0092f57a2d6d15ce5449fd20 | Score: 83.1341
+{
+  "id" : "66789c79f4803b726e45431b74fa4b9606739a5e0092f57a2d6d15ce5449fd20",
+  "contents" : "The Top 10 most popular Oasis songs... according to Radio X listeners - Radio X <h1>The Top 10 most popular Oasis songs... according to Radio X listeners</h1>\n\n<p>17 May 2025, 17:30</p>\n\nThe Definitely Maybe line-up of Oasis: Bonehead, Liam Gallagher, Noel Gallagher, Tony McCarroll and Guigsy.\nThe Definitely Maybe line-up of Oasis: Bonehead, Liam Gallagher, Noel Gallagher, Tony McCarroll and Guigs...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 16b3be2d32bc426789ea8a5547b9b172fe2635a535d0fd4c29c3a3013f4a551c | Score: 82.9114
+{
+  "id" : "16b3be2d32bc426789ea8a5547b9b172fe2635a535d0fd4c29c3a3013f4a551c",
+  "contents" : "Oasis' Live Forever is voted the Best British song ever <h1>Oasis' Live Forever is voted the Best British song ever</h1>\n\nplaceholder image\n\n<p>Fans of The Beatles and the Stones look away now: <a href=\"/topic/oasis\">Oasis</a>' Live Forever has been voted the best British song ever by Radio X listeners.</p>\n\n<p>The Manchester band knocked Bohemian Rhapsody off the top spot in the radio station'...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 97d4bfa25fd9eb7dbf2244b31ac81a3f6e9619051e3beedd8c7d697d46a78587 | Score: 82.4833
+{
+  "id" : "97d4bfa25fd9eb7dbf2244b31ac81a3f6e9619051e3beedd8c7d697d46a78587",
+  "contents" : "Oasis Song To Help Sell Knickers - Pop-Music.comPop-Music.com\t <h1>Oasis Song To Help Sell Knickers</h1>\n\n<p>They once vowed never to sell out to telly ads but now Oasis have done a U-turn and agreed that one of their songs can be used to flog women’s underwear in the States.</p>\n\n<p>The track ‘Hung In A Bad Place’ will feature in a massive ad campaign for the saucy Victoria’s Secret range in New ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 26
+Query: 100 men versus gorilla
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: f58d7e1587725589a2fadc8263c3342d94e99b322ac44ea53bb04e1cfc98bf2e | Score: 83.6668
+{
+  "id" : "f58d7e1587725589a2fadc8263c3342d94e99b322ac44ea53bb04e1cfc98bf2e",
+  "contents" : "100 Men vs. 1 Gorilla: Primatologists Explain Who Would Win <a href=\"#\">×</a>\n<a href=\"#pagetop\"> Skip to main content </a>\n<a href=\"\">"
+}...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 1a5437ec84040d74ac2812f00d34aea5370ea11cb53140fb6cf1e71399fd5041 | Score: 84.4687
+{
+  "id" : "1a5437ec84040d74ac2812f00d34aea5370ea11cb53140fb6cf1e71399fd5041",
+  "contents" : "Dallas Cowboys star breaks down viral 100 men vs. 1 gorilla debate <h1>Dallas Cowboys star breaks down viral 100 men vs. 1 gorilla debate</h1>\n\nOne Dallas Cowboys star gives his take on the viral argument of who would win between 100 men vs. 1 gorilla.\nDallas Cowboys tight end Jake Ferguson walks the field before a game against the Pittsburgh Steelers at Acrisure Stadium.\nDallas Cowboys tight end J...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: e5048073ad564999f30875e1a4bb45a0aa176820daf0e8ba670ea5f4887726c4 | Score: 84.3716
+{
+  "id" : "e5048073ad564999f30875e1a4bb45a0aa176820daf0e8ba670ea5f4887726c4",
+  "contents" : "Celtics players weigh in on viral '100 people vs. gorilla' debate <a href=\"https://www.boston.com/tag/boston-celtics/\"> Celtics </a>\n\n<h1>Celtics players weigh in on viral ‘100 people vs. gorilla’ debate</h1>\n\n<h2>Kristaps Porzingis said it would only take 20 humans to beat the gorilla.</h2>\n\nA gorilla. Photo by Odd ANDERSEN / AFP\n\n<p>Could 100 men beat a gorilla in a fight? </p>\n\n<p>That q...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 27
+Query: who is the ceo of steam
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 18a98ee081f5c2ece59e98f9a5af4bef16707a3945c2a79189710331b5689ad0 | Score: 82.5997
+{
+  "id" : "18a98ee081f5c2ece59e98f9a5af4bef16707a3945c2a79189710331b5689ad0",
+  "contents" : "STEAM Leadership Series Presents “Cross-Border Opportunities in Engineering & Business” to 300 High School Students | San Diego Foundation <h2>Media Advisory</h2>\n\n<p>November 30, 2017</p>\n\nWHAT: The STEAM Leadership Series, sponsored by The San Diego Foundation and other local partners, will host an event, “Cross-Border Opportunities in Engineering &amp; Business,” for 300 high school freshmen and...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 07911febf0516c92b8b248d4d55201c7b328949a2a1314f4e679ae1b8e36b120 | Score: 82.1344
+{
+  "id" : "07911febf0516c92b8b248d4d55201c7b328949a2a1314f4e679ae1b8e36b120",
+  "contents" : "\"Epic Games Launcher is clunky\" admits CEO, \"long journey ahead\" to make it as easy as Steam - PC Guide <a href=\"https://www.pcguide.com/\">Home</a> &gt; News\n\n<h1>“Epic Games Launcher is clunky” admits CEO, “long journey ahead” to make it as easy as Steam</h1>\n\nQuality-of-life features are the focus here\nLast Updated on\n“Epic Games Launcher is clunky” admits CEO, “long journey ahead” to mak...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 1554e66b8408d859b2ba47c0da4e4f0a8ce191f2848c3a5c3cec0c5c452c5187 | Score: 81.4260
+{
+  "id" : "1554e66b8408d859b2ba47c0da4e4f0a8ce191f2848c3a5c3cec0c5c452c5187",
+  "contents" : "NationalBoard News\n <a href=\"PrintPage.aspx?NewsPageID=3334\">  Print</a>\n<h5>General Meeting Speaker</h5>\n04/17/25<br>\n\n<p></p>\n\n<p>Kory Anderson to Present “Steam and Spirit: Inspecting the Past to Power the Future”</p>\n\n<p>The National Board is pleased to welcome Kory Anderson as a General Session speaker on May 12 at the 93rd General Meeting in Salt Lake City, Utah.</p>\n\n<p>Anderson is ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 28
+Query: maximum particulate matter levels Europe
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 53db05119f00d78272ee359ee5a059edc80c46145c9422d2eec0b120fb35bcf3 | Score: 84.2284
+{
+  "id" : "53db05119f00d78272ee359ee5a059edc80c46145c9422d2eec0b120fb35bcf3",
+  "contents" : "Particulate matter monitoring station, spot | Stock Photo Particulate matter monitoring station, spot station, at Neckartor, B14, Cannstatter Strasse street, the highest PM levels nationwide are regularly measured in downtown Stuttgart, Baden-Wuerttemberg, Germany, Europe\nParticulate matter monitoring station, spot station, at Neckartor, B14, Cannstatter Strasse street, the highest PM levels nationwid...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 70c9e0d27f7ed5a6c77e972d9d842fb0d83e1ff795faa0562af20adcdd41ac6f | Score: 84.1517
+{
+  "id" : "70c9e0d27f7ed5a6c77e972d9d842fb0d83e1ff795faa0562af20adcdd41ac6f",
+  "contents" : "Air quality in Europe 2022\n  —\n\n  European Environment Agency\n next\nprevious\nitems\n<a href=\"#document-toc\">\n\n<p>WEB REPORT</p>\n\nNote: new versions of the publication are available!\n\n<h2>Air quality in Europe 2022</h2>\n\n<h1> Air quality in Europe 2022 </h1>\n\nBriefing Published 24 Nov 2022 Last modified 28 Feb 2023\n4 min read\nPhoto: © Branko Nađ, Well with Nature /EEA\nAir pollution ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 6bf901f8eb8d66a6a9c6f681588ae722b60d75c2da3a4f5c46d346b582a61343 | Score: 84.1517
+{
+  "id" : "6bf901f8eb8d66a6a9c6f681588ae722b60d75c2da3a4f5c46d346b582a61343",
+  "contents" : "Air quality in Europe 2022\n  —\n\n  European Environment Agency\n next\nprevious\nitems\n<a href=\"#document-toc\">\n\n<p>WEB REPORT</p>\n\nNote: new versions of the publication are available!\n\n<h2>Air quality in Europe 2022</h2>\n\n<h1> Air quality in Europe 2022 </h1>\n\nBriefing Published 24 Nov 2022 Last modified 28 Feb 2023\n4 min read\nPhoto: © Branko Nađ, Well with Nature /EEA\nAir pollution ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 29
+Query: social media declining confidence
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 4cd89e28ecb8e2a5e6f8b78d925bec1ece25a3117b416d3be686082876665e50 | Score: 81.6810
+{
+  "id" : "4cd89e28ecb8e2a5e6f8b78d925bec1ece25a3117b416d3be686082876665e50",
+  "contents" : "Can Social Media Seize Control of Our Elections? | Thom Hartmann <h2>Can Social Media Seize Control of Our Elections?</h2>\n\n<p>Americans don’t trust the media. In fact, studies show that we like really, really, really don’t trust the media.<br><br>\nA new survey from the Media Insight Project, for examples, shows that just 6 percent of Americans “say they have great confidence in the press.”<br><br>\...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 0cd78a5c8bc3c4e1167f711d3e55142e8b362c1534e7e1de6c3c21488fc34d9e | Score: 82.0693
+{
+  "id" : "0cd78a5c8bc3c4e1167f711d3e55142e8b362c1534e7e1de6c3c21488fc34d9e",
+  "contents" : "Can the Media Regain Trust? | Edelman <p>The American newspaper magnate, William Randolph Hearst defined news as that which somebody wants suppressed. Today, Hearst’s notion of suppression has taken on a much wider meaning with the convergence of two forces: an era of low trust in institutions driven by inequity and polarization, and the amplification, convening and organising power that social media h...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 19bb51bc4679ae23b3ddd5efbfda1f8ef55780babbca3b563b06040a490113b1 | Score: 82.1519
+{
+  "id" : "19bb51bc4679ae23b3ddd5efbfda1f8ef55780babbca3b563b06040a490113b1",
+  "contents" : "How Social Media Might Be Quietly Killing Your Confidence | Psychology Today Canada <a href=\"#block-pt-content\"> Skip to main content </a>\n\n<p> Verified by Psychology Today</p>\n\n<h6> <a href=\"/ca/basics/social-media\">Social Media</a> </h6>\n\n<h1> How Social Media Might Be Quietly Killing Your Confidence </h1>\n\n<h2> Endless scrolling and constant comparison could be eroding your self-worth. <...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 30
+Query: Haiti earthquake 2010
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 2ab33a0de79293ef87f627a2d73aa9e6fe3415929cfaaaf1764cf5a70171d8ba | Score: 85.0411
+{
+  "id" : "2ab33a0de79293ef87f627a2d73aa9e6fe3415929cfaaaf1764cf5a70171d8ba",
+  "contents" : "2010 Haiti Earthquake Facts and Figures | Disasters Emergency Committee <h1> 2010 Haiti Earthquake Facts and Figures </h1>\n\n<h2>READ THE <a href=\"/articles/haiti-3-years-on\">THREE YEARS UPDATE</a> ON DEC MEMBER AGENCIES WORK IN HAITI.</h2>\n\n<h2>HAITI BEFORE THE 2010 EARTHQUAKE</h2>\n\n<ul>\n  <li>Haiti was 145th of 169 countries in the UN Human Development Index, which is the lowest in the Wester...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 0f234be29be0903d1ce1676f4ba2423b29b5604a0184d4380980ee34aec3796e | Score: 84.7556
+{
+  "id" : "0f234be29be0903d1ce1676f4ba2423b29b5604a0184d4380980ee34aec3796e",
+  "contents" : "2010 Haiti earthquake Facts for Kids <a href=\"https://www.kiddle.co\">kids encyclopedia robot</a>\n\n<h1>2010 Haiti earthquake facts for kids</h1>\n\n<a href=\"/\">Kids Encyclopedia Facts</a>\nQuick facts for kids<br>\n2010 Haiti earthquake\n<a href=\"/Image:Ruins_of_the_Cathedral_in_the_centre_of_Port_au_Prince.jpg\">Ruins of the Cathedral in the centre of Port au Prince.jpg</a>\nThe heavily damaged ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 49af385f48ebb698ef5c561670f1e1d60d5e356f2433a3eb78adcd4bba1a988d | Score: 84.5388
+{
+  "id" : "49af385f48ebb698ef5c561670f1e1d60d5e356f2433a3eb78adcd4bba1a988d",
+  "contents" : "2010 Haiti earthquake | Magnitude, Damage, Map, & Facts | Britannica <h1>2010 Haiti earthquake</h1>\n\nprint Print\nPlease select which sections you would like to print:\nverifiedCite\nWhile every effort has been made to follow citation style rules, there may be some discrepancies. Please refer to the appropriate style manual or other sources if you have any questions.\nSelect Citation Style\nFeedback\...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 33
+Query: Nijmegen restaurants
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: aea09914c2a6a093524024e7c47bed7dfec02d064e6b32936efd8e91b08719c7 | Score: 82.5016
+{
+  "id" : "aea09914c2a6a093524024e7c47bed7dfec02d064e6b32936efd8e91b08719c7",
+  "contents" : "Golfbaan het Rijk van Nijmegen - Groesbeek Restaurant - ViaMichelin ViaMichelin\nGolfbaan het Rijk van Nijmegen\nLocation picture\nStunning 8.7 (228 reviews)\nApprox. €33\nLocation\nPostweg 17<br>\n6561 KJ Groesbeek"
+}...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 378083e080e5dc4569f71641be32017f513a18d3588ac29fc221f00a9e8b6540 | Score: 83.3568
+{
+  "id" : "378083e080e5dc4569f71641be32017f513a18d3588ac29fc221f00a9e8b6540",
+  "contents" : "The 10 Best Lunch Restaurants in Nijmegen | TheFork Register my restaurant\nHelp\n\n<h1>The 10 Best Lunch Restaurants in Nijmegen</h1>\n\n10 restaurants\nWhy you received these results\nLunch - Vief, Nijmegen\n\n<p>International</p>\n\n<h2><a href=\"/restaurant/vief-r743807#rankedBy=SEARCH_ENGINE\">Vief</a></h2>\n\n<p> Waalkade 66, 6511 XP, Nijmegen <br></p>\n\n7.6 / 10 <br>\n 260 reviews<br>\n\n<p>Ave...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 7d36119a1e624bff5d9a3928688609a81e1fc72bba6785a85010fd3b79f75760 | Score: 83.8335
+{
+  "id" : "7d36119a1e624bff5d9a3928688609a81e1fc72bba6785a85010fd3b79f75760",
+  "contents" : "The 10 Best Restaurants in Nijmegen 2025 | TheFork NeighborhoodsPayment methodsDishesDietary requirementsTheFork selections ServicesSetting and ambienceCuisinesLoyalty programInsider selectionsOnly with offersNearby\nRegister my restaurant\nHelp\n\n<h1>The 10 Best Restaurants in Nijmegen</h1>\n\n32 restaurants\nWhy you received these results\nRestaurant Ivory, Nijmegen\n\n<p>INSIDERFrench</p>\n\n<h2><a...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 35
+Query: Telescopes in space
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: a1ff90382875dcbeb4972a6ffcf95d3ca94965c374f5f9f349491d7a4249acbb | Score: 82.7691
+{
+  "id" : "a1ff90382875dcbeb4972a6ffcf95d3ca94965c374f5f9f349491d7a4249acbb",
+  "contents" : "Best telescopes for deep space 2025: View the universe in breathtaking detail | Space <h1>Best telescopes for deep space 2025: View the universe in breathtaking detail</h1>\n\nWoman with one of the best telescopes for deep space looking at the night sky\nThe best telescopes for deep space enable you to see star clusters, galaxies and nebulas. (Image credit: Getty)\n\n<p>As stunning as our own solar sys...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 7c452e922a66a010e44670c3882e75ef1034e8331a8ac14bb714dd896aceed98 | Score: 81.7833
+{
+  "id" : "7c452e922a66a010e44670c3882e75ef1034e8331a8ac14bb714dd896aceed98",
+  "contents" : "Telescopes and instruments <h1>Telescopes, instruments and new technologies</h1>\n\n<p>Astronomers are constantly pushing the boundaries of increasingly detailed observation and data for a growing number of objects at a variety of wavelengths in the electromagnetic spectrum.</p>\n\n<p>The telescopes and instruments required for this kind of cutting-edge research cannot be purchased from industry: they ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 470743c5cfb9fca4aeb034d3f275056a27bcad1e9f53e899e987db7a467c0454 | Score: 82.0581
+{
+  "id" : "470743c5cfb9fca4aeb034d3f275056a27bcad1e9f53e899e987db7a467c0454",
+  "contents" : "Best telescopes for beginners: Start your stargazing journey with our pick of the best beginner-friendly telescopes. | Space <h1>Best telescopes for beginners 2025: Start your stargazing journey with our pick of the best beginner-friendly telescopes. </h1>\n\nMan using one of the best telescopes for beginners\nThe best telescopes for beginners are a great way to introduce children or adults to the fiel...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 36
+Query: Danger of pesticides
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 2bbeb6714034d5e01955bda62e6552d88d88f5f471ff6ac51fbf22f12b075fab | Score: 81.2519
+{
+  "id" : "2bbeb6714034d5e01955bda62e6552d88d88f5f471ff6ac51fbf22f12b075fab",
+  "contents" : "Dangers in entering a chemical tank for maintenance operation? - Answers <a href=\"https://www.answers.com/\">answersLogoWhite</a>\n<a href=\"https://www.answers.com/notifications\"></a>\n\n<p>0</p>\n\n<p>The biggest hazard is inadequate oxygen to support life in a confined space. Suffocation due to insufficient oxygen is a frequent cause of industrial fatalities. A secondary hazard is the danger from ...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 8e3922d283809f639766c512fb32cec93da57aedf7a1594b7ba4162d3fe0c0b9 | Score: 81.4013
+{
+  "id" : "8e3922d283809f639766c512fb32cec93da57aedf7a1594b7ba4162d3fe0c0b9",
+  "contents" : "Health Effects of Pesticides - Pesticide Action Network UK <h1>Impacts of pesticides on our health</h1>\n\n<p>Pesticides are poisons and, unfortunately, they can harm more than just the “pests” at which they are targeted. They are toxic, and exposure to pesticides can cause a number of health effects. They are linked to a range of serious illnesses and diseases from respiratory problems to cancer.</p>\...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 3d114d270d923b90c12c836c898d3de33017702ed990c29d5abdaa051912fa52 | Score: 81.5353
+{
+  "id" : "3d114d270d923b90c12c836c898d3de33017702ed990c29d5abdaa051912fa52",
+  "contents" : "Hazards of Pesticides for Children's Health — Beyond Pesticides <p><a href=\"javascript:mobiletopoff()\">[X] CLOSE</a><a href=\"javascript:mobiletopon()\">MAIN MENU</a></p>\n\n<p><a href=\"javascript:mobilesuboff()\">[X] CLOSE</a><a href=\"javascript:mobilesubon()\">IN THIS SECTION</a></p>\n\nphoto\n\n<h1>Hazards of Pesticides for Children’s Health</h1>\n\n<p></p>\n\n<p>Children face much higher hazard...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 37
+Query: hay fever advice
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 853ba98f52ba811ade83372a1f40ea40f7ce50b383db20fcb5f356643d5c0f26 | Score: 83.5205
+{
+  "id" : "853ba98f52ba811ade83372a1f40ea40f7ce50b383db20fcb5f356643d5c0f26",
+  "contents" : "Hay fever sufferers urged to seek medical attention if they have these 3 symptoms - Surrey Live <p>Hay fever season is upon us and that means millions of people will be suffering with a host of unwanted symptoms as the pollen count continues to rise. Though <a href=\"https://www.getsurrey.co.uk/all-about/health\">hay fever</a> isn’t life threatening, it’s vitally important to be on the look out for thr...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: ba328ce913727dc60d680819338fa879b95719d663745b689190ede9c9dba9d7 | Score: 83.3844
+{
+  "id" : "ba328ce913727dc60d680819338fa879b95719d663745b689190ede9c9dba9d7",
+  "contents" : "Can you drive with hay fever? | Tempcover <a href=\"https://www.tempcover.com/front-cover/driving-advice\">Driving advice</a>\n\n<h1>Can you drive with hay fever?</h1>\n\n<h4>Driving tips for hay fever sufferers</h4>\n\nRyan Barham\n\n<p>Ryan Barham</p>\n\n<p>Last updated: 01/07/2025</p>\n\nCan you drive with hay fever?\n\n<p>Summer is around the corner and with road trips, festivals and opportunities ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 683aa85399673bfc652b966ae35a0f1f4cc81ddd69d521769d139d3dd0add10f | Score: 83.5812
+{
+  "id" : "683aa85399673bfc652b966ae35a0f1f4cc81ddd69d521769d139d3dd0add10f",
+  "contents" : "Asthma and Lung UK shares hay fever advice amid reports mild February may trigger early season <p> <a href=\"/\"> Home</a>   <a href=\"/lifestyle/\">Lifestyle</a>   Article</p>\n\n<a href=\"/subscribe/\">Subscribe Now</a>\n\n<h1>Asthma and Lung UK shares hay fever advice amid reports mild February may trigger early season</h1>\n\n<a href=\"#comment-box\"></a>\n<a href=\"https://api.whatsapp.com/send?te...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 38
+Query: Judo belt system
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 8e06ba44b2e86e2aa66fe33850ee79eee47833b3af7a2028450f912806287c19 | Score: 83.5362
+{
+  "id" : "8e06ba44b2e86e2aa66fe33850ee79eee47833b3af7a2028450f912806287c19",
+  "contents" : "Kids Jiu Jitsu Belt Rankings <h1>Kids Jiu Jitsu Belt Rankings</h1>\n\nKids Jiu Jitsu Belt Rankings\n\n<p>You probably know about the adult <a href=\"https://www.lowkickmma.com/jiu-jitsu-belt-system/\">Jiu Jitsu belt rankings</a>, but not much about the kids Jiu Jitsu belt rankings. The kids <a href=\"https://www.lowkickmma.com/jiu-jitsu/\">Jiu Jitsu</a> belt rankings is a whole different system that go...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: aaa3b9f17308433317fca0bcc13524ea0779171d25c616dc8159781b6902e10f | Score: 83.1758
+{
+  "id" : "aaa3b9f17308433317fca0bcc13524ea0779171d25c616dc8159781b6902e10f",
+  "contents" : "Judo Belts in all Colours | Grading and Competitions | Blitz <a href=\"/judo\">Judo</a> &gt; Belts &gt;"
+}...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: cb42f64f7b4249bbad3423e3122cba99a320833ed00ca79d5771e333ec421db4 | Score: 83.7524
+{
+  "id" : "cb42f64f7b4249bbad3423e3122cba99a320833ed00ca79d5771e333ec421db4",
+  "contents" : "What are the judo belts colors? - Answers <a href=\"https://www.answers.com/\">answersLogoWhite</a>\n<a href=\"https://www.answers.com/notifications\"></a>\n\n<p>0</p>\n\n<ol>\n  <li>White</li>\n  <li>Yellow</li>\n  <li>Orange</li>\n  <li>Green</li>\n  <li>Blue</li>\n  <li>Brown</li>\n  <li>Black</li>\n</ol>\n<a href=\"\">User Avatar</a><a href=\"https://www.answers.com/page/wiki-users\">\n\n<p>Wiki Us...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 40
+Query: blackbird beatles guitar
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: b02b04baf97c980fd007d9e34e42d8f3057043049614756e5ec17d3470c6aa6d | Score: 84.9930
+{
+  "id" : "b02b04baf97c980fd007d9e34e42d8f3057043049614756e5ec17d3470c6aa6d",
+  "contents" : "VOX | The BlackBirds | Beatles emlékzenekar | Hungarian Beatles and Solo Years Tribute Band fix bar\nfix bar\nfix bar\nfix bar\nfix bar\nfix bar\n\n<h1> VOX </h1>\n\n<p>VOX amplifiers had an undeniable role in creating the Beatles’ unique sound and legend. They were there from the beginning to the very end of the story to give unmistakable atmosphere to all the songs and deliver their powerful sound th...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 23a5eba70efd354fe96ddf6bd406eb65b22d24e64cc9ba7d6842f504da4e43e8 | Score: 82.6883
+{
+  "id" : "23a5eba70efd354fe96ddf6bd406eb65b22d24e64cc9ba7d6842f504da4e43e8",
+  "contents" : "Contact | The BlackBirds | Beatles emlékzenekar | Hungarian Beatles and Solo Years Tribute Band fix bar\nfix bar\nfix bar\nfix bar\nfix bar\nfix bar\n\n<h1> Contact </h1>\n\n<p>LennonArt</p>\n\n<p>info@blackbirds.hu</p>\n\n<p>Tel. (ENG):: +36 20 496 0857</p>\n\n<p><br><br>"
+}...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: e66c254e434bf8c527214c83ce697f3f15e0fd5417fe9d16adc0f487195479e2 | Score: 86.1012
+{
+  "id" : "e66c254e434bf8c527214c83ce697f3f15e0fd5417fe9d16adc0f487195479e2",
+  "contents" : "Introduction | The BlackBirds | Beatles emlékzenekar | Hungarian Beatles and Solo Years Tribute Band fix bar\nfix bar\nfix bar\nfix bar\nfix bar\nfix bar\n\n<h1> Introduction </h1>\n\n<p>It’s been 15 years now. It seems to be unbelievable and it is a great honor that we could spend this incredible amount of time as a successful band in Hungary and in many other countries. When we had our first concert ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 41
+Query: linux cat
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: b1346db4309e168c63f6954a6af02e933ae267e4ab4f37f759406ec5426c1630 | Score: 81.9240
+{
+  "id" : "b1346db4309e168c63f6954a6af02e933ae267e4ab4f37f759406ec5426c1630",
+  "contents" : "10 Linux cat Command Examples for Beginners <h1>10 Linux cat Command Examples for Beginners</h1>\n\n<p>If you are a regular Linux command line user, I am sure you must have used the cat command. The tool is mostly used for displaying the contents of a file, although it provides many other small but useful features. This article will discuss the cat command in detail, explaining some of its key features...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: c1ff48f6a9099e1f98e57870c10554a561d03f6de66f851da050058425b3ae3b | Score: 81.8681
+{
+  "id" : "c1ff48f6a9099e1f98e57870c10554a561d03f6de66f851da050058425b3ae3b",
+  "contents" : "How to Bell the Linux Mint Cat Nov 172014\n \n\n<p>So like a lot of smart people you too have started running Linux Mint on your computer.</p>\n\n<p>And then suddenly you wonder which version of Linux Mint you’re running.</p>\n\n<p>Now there are many ways to bell a Linux Mint cat.</p>\n\n<p>You can get the answer via the graphical interface or through the command line.</p>\n\n<p>For the GUI version, go...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 5e0bc18b6162e494d81ef60998f95336676d3b9d77ebe71f3f75ae7d20cb6dde | Score: 81.1833
+{
+  "id" : "5e0bc18b6162e494d81ef60998f95336676d3b9d77ebe71f3f75ae7d20cb6dde",
+  "contents" : "cat: concatenate files and print on the standard output - Linux Manuals (1) <h1> cat (1) - Linux Manuals</h1>\n\n<h2>cat: concatenate files and print on the standard output</h2>\n\n<a href=\"\">\n\n<h2>NAME</h2>\n\n<p> cat - concatenate files and print on the standard output </p>\n\n<a href=\"\">\n\n<h2>SYNOPSIS</h2>\n\ncat [,OPTION/]... [,FILE/]... <a href=\"\">\n\n<h2>DESCRIPTION</h2>\n\n<p> Concaten...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 45
+Query: nuclear disasters
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: b629b6bf44a60571fa5522d32eefeb5a5c1c39eaba72c35dcf58ff9804a9ed7c | Score: 82.6003
+{
+  "id" : "b629b6bf44a60571fa5522d32eefeb5a5c1c39eaba72c35dcf58ff9804a9ed7c",
+  "contents" : "5 worst nuclear disasters from around the world | Sky HISTORY TV Channel  <a href=\"#main-content\"> Skip to main content </a>\nDilapidated building near Chernobyl with a nuclear warning sign\n\n<h1> 5 worst nuclear disasters from around the world </h1>\n\n<h2> Nuclear disasters can be caused by a variety of factors, but they all have the potential to have widespread impacts that can linger for generat...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 49251fb8add6ed423aac785eafd92960cb5d9e8efdb23c1eaa7a89059a765498 | Score: 81.2411
+{
+  "id" : "49251fb8add6ed423aac785eafd92960cb5d9e8efdb23c1eaa7a89059a765498",
+  "contents" : "From nuclear safety to nuclear security - The Japan Times  <p>Four years ago, a devastating tsunami crashed into the coast of Japan. Waves 15 meters high breached the seawall of the Fukushima No. 1 nuclear power plant, cutting off its emergency power supply and disabling its cooling systems.</p>\n\n<p>The nuclear accident was the worst since the meltdown of the Chernobyl power plant in 1986. Investigat...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 5d4acdaa948c2601cf76dbd0ab1096c2e2d1b9b43c31b1e7998ad30d8843a20b | Score: 80.9746
+{
+  "id" : "5d4acdaa948c2601cf76dbd0ab1096c2e2d1b9b43c31b1e7998ad30d8843a20b",
+  "contents" : "nuclear disaster news & latest pictures from natureworldnews.com nuclear disaster"
+}...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 47
+Query: Microplastics in drinking water
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 39f834bff482e94a4682a90c99e4b2f696696cb9d594805267dea19b954f0cde | Score: 84.4593
+{
+  "id" : "39f834bff482e94a4682a90c99e4b2f696696cb9d594805267dea19b954f0cde",
+  "contents" : "Boiling tap water can remove nearly 90 percent of microplastics, new study finds | Live Science <h1>Boiling tap water can remove nearly 90% of microplastics, new study finds</h1>\n\na pot of boiling water shown on a stove top ring\nBoiling water for a few minutes can reduce the number of microplastics in it, a study finds. (Image credit: Shutterstock)\n\n<p>Boiling tap water before drinking it can remo...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: e6f00c333818e7e58fdeb2fbb7465746e79daa88101707cfc68822c984cf4a18 | Score: 82.6953
+{
+  "id" : "e6f00c333818e7e58fdeb2fbb7465746e79daa88101707cfc68822c984cf4a18",
+  "contents" : "What are the disadvantages of drinking mineral spring water? <h1>Q. What are the disadvantages of drinking mineral spring water?</h1>\n\n<p>Answer</p>\n\n<p>Drinking mineral water is generally harmless, however, some types may have too much sodium for those on a restricted sodium diet. Furthermore, there are worries regarding the presence of microplastics in bottled mineral water. Early animal and test...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 9314752c368cb16b1ba424c4253fbf834ebe951aca28efd63e2949b136f888ac | Score: 83.8071
+{
+  "id" : "9314752c368cb16b1ba424c4253fbf834ebe951aca28efd63e2949b136f888ac",
+  "contents" : "A single tea bag can leak billions of pieces of microplastic into your brew | CNN CNN  — \n\n<p> They’re in our <a href=\"https://cnn.com/2019/06/24/health/plastic-pollution-rivers-oceans-scn-intl/index.html\">oceans</a>, <a href=\"https://cnn.com/2018/04/22/health/microplastics-land-and-air-pollution-intl/index.html\">soil</a>, air, <a href=\"https://cnn.com/2019/08/15/world/microplastics-arctic-snow-...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 49
+Query: preventing mold in reusable water bottles.
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 405cef3e4a0bea79c90a6d7c244bbf5055127a1cb3a416293846f0c7bc9ae1ea | Score: 86.2714
+{
+  "id" : "405cef3e4a0bea79c90a6d7c244bbf5055127a1cb3a416293846f0c7bc9ae1ea",
+  "contents" : "How to Clean Your Travel Cup or Bottle: Smells, Mold, Build Up Open Accessibility Menu\nHide\n\n<h1>How to Clean Your Travel Cup or Bottle: Smells, Mold, Build Up</h1>\n\nHow to Clean Your Travel Cup or Bottle: Smells, Mold, Build Up\n\n<p>Are you a #StanleyCup® lover? Maybe your ice water is dressed in a colorblocked Owala® bottle or a Hydrojug® travel cup. However you sip, that vessel may be dirtier ...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: c07a26df7d6510d1d14f25678436e280f0eccdd04c8f48c9fee82e317e85a8cc | Score: 84.5787
+{
+  "id" : "c07a26df7d6510d1d14f25678436e280f0eccdd04c8f48c9fee82e317e85a8cc",
+  "contents" : "Reusable Water Bottles | Insulated Water Bottles\n– Green Tulip\n <h1> Reusable Bottles </h1>\n\nFilter\n<ul>\n\n  <h3>Reusable Non-Insulated &amp; Insulated Bottles  </h3>\n\n  <p>A reusable stainless steel bottle will reduce your plastic waste and save you money. Our non-insulated and insulated bottles are designed to be plastic free, lightweight, reusable and durable. Choose a reusable water bottle ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: ae76e592e8a186039af78c0d5a04ccb22630ec7028ef4e9d64f111d0b557525b | Score: 83.5702
+{
+  "id" : "ae76e592e8a186039af78c0d5a04ccb22630ec7028ef4e9d64f111d0b557525b",
+  "contents" : "Urgent health warning to everyone drinking from reusable water bottles <p> A <a href=\"/news/health/\">health</a> warning has been issued to everyone who drinks from reusable water bottles throughout the day. </p>\n\n<p> Bugs can grow in reusable bottles, causing health issues including diarrhoea, pneumonia and vomiting, as well as moulds that can cause allergies and asthma attacks. </p>\n\n<p> Many of...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 50
+Query: AI applications in cancer diagnosis
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 330ec958c9463489132c87f77ce4d5bb0228ef4da353ec2d9828e9568303b31b | Score: 84.1813
+{
+  "id" : "330ec958c9463489132c87f77ce4d5bb0228ef4da353ec2d9828e9568303b31b",
+  "contents" : "AI in Cancer Diagnosis Market Size to Hit USD 2456 Million <h1>AI in Cancer Diagnosis Market Size to Hit USD 2456 Million by 2032 with a CAGR of 11.0% - SNS Insider</h1>\n\n<h2>The AI in Cancer Diagnosis Market growth is driven by technological advancements, rising cancer incidence, and increasing demand for early detection solutions.</h2>\n\n<p> 1401 Lavaca ST 800, Austin Tx 78701 </p>\n\n<p>\n\n<p>Pu...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: f13b9e6fe3c0b77b2d0b63e576102cccd9e454b3017cf871ccf1829c79c3c4b4 | Score: 83.5121
+{
+  "id" : "f13b9e6fe3c0b77b2d0b63e576102cccd9e454b3017cf871ccf1829c79c3c4b4",
+  "contents" : "CRPP AI Oncological Imaging - Clinical Research Priority Program Artificial Intelligence in oncological imaging – USZ <h1>CRPP AI Oncological Imaging – Clinical Research Priority Program Artificial Intelligence in oncological imaging</h1>\n\n<h2>Project Overview</h2>\n\n<p>Artificial Intelligence (AI) methods are rapidly developing in many areas of everyday life. First applications are also seen in med...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 6d2b5bc65c4a3b2827f357fe41bb7821963f478aa2f82311fab214da042c2d8c | Score: 84.3158
+{
+  "id" : "6d2b5bc65c4a3b2827f357fe41bb7821963f478aa2f82311fab214da042c2d8c",
+  "contents" : "AI’s emerging role in cancer diagnosis - Bristows <a href=\"#main\"> Skip to content </a>\n\n<h1> AI’s emerging role in cancer diagnosis</h1>\n\n<p>The uses for AI and machine learning in medicine continues to grow, with more recent evidence that it can be a powerful tool helping diagnose disease and improve treatment.</p>\n\n<p>24.11.2023 </p>\n\n<p>A study conducted by the Royal Marsden Hospital and ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 51
+Query: Health benefits of almond
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 43d3922672f9244a7599419786870e970d619950cd503e30ef5c7ce43134885a | Score: 83.0656
+{
+  "id" : "43d3922672f9244a7599419786870e970d619950cd503e30ef5c7ce43134885a",
+  "contents" : "5 Impressive Health Benefits Of Almonds <a href=\"/\">Home</a> »  <a href=\"/living-healthy-15\"> Living Healthy »  </a> 5 Impressive Health Benefits Of Almonds\n\n<h1>5 Impressive Health Benefits Of Almonds</h1>\n\n<h2>Almonds are a rich source of nutrients and its regular consumption can save you from many dreaded diseases. Read further to know about the risks of health hazards which almonds can save...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 8503ed5faece962e088082e798bb4130a93fa93335125ea4d6f2a6854dc2604a | Score: 82.5733
+{
+  "id" : "8503ed5faece962e088082e798bb4130a93fa93335125ea4d6f2a6854dc2604a",
+  "contents" : "14 Benefits of almonds and side effects - Health Benefits Of The Wayback Machine - https://web.archive.org/web/20220520234502/https://healthbenefitsof.org/14-shocking-health-benefits-of-almonds/\n<a href=\"#search\">\nCategories: Nuts\n\n<h1>14 Benefits of almonds and side effects</h1>\n\nPublished by\nlbobvalla\nAdvertisements\n\n<p>Discover the 14 shocking health benefits of almonds and side effects....
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 515245344561867ffc2af4c4dbfdda4ae423d13d571f96065b1f6463f74607a0 | Score: 82.6949
+{
+  "id" : "515245344561867ffc2af4c4dbfdda4ae423d13d571f96065b1f6463f74607a0",
+  "contents" : "Almonds Consuming Tips: What is the healthiest way to have almonds? | - Times of India <h1>What is the healthiest way to have almonds?</h1>\n\nHow you consume almonds can impact their nutritional value and your overall health. Here are a few healthy ways of eating almonds so that you receive maximum nutrients possible. Whether raw, soaked, roasted, as almond butter, or almond milk, each method offers u...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 53
+Query: What is a Bayesian Network
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 27e538c6783ce7fb6b93cb3a2694458628f26d8cbcd3ef109a816136d478172a | Score: 81.5400
+{
+  "id" : "27e538c6783ce7fb6b93cb3a2694458628f26d8cbcd3ef109a816136d478172a",
+  "contents" : "Conceptual Bayesian Networks for Groundwater Remediation and Assessment – Bayesia bayesia logo\nBayesiaLab\nConceptual Bayesian Networks for Groundwater Remediation and Assessment\n\n<h1>Conceptual Bayesian Networks for Groundwater Remediation and Assessment</h1>\n\n<p>Presented at the <a href=\"/bayesialab/conferences/2024-conference-cincinnati\">2024 BayesiaLab Conference</a> in Cincinnati on April 1...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 34f7842ef02234b4d66de90cdacee7b8b2ecc24a2b1da518049983bb32366c93 | Score: 81.5164
+{
+  "id" : "34f7842ef02234b4d66de90cdacee7b8b2ecc24a2b1da518049983bb32366c93",
+  "contents" : "A Bayesian network for combining descriptors: application to symbol recognition | Sciweavers <h1><a href=\"/\">Sciweavers</a></h1>\n\nIJDAR<br>\n2010<br>\n\n<h1>A Bayesian network for combining descriptors: application to symbol recognition</h1>\n\n<a href=\"/read/a-bayesian-network-for-combining-descriptors-application-to-symbol-recognition-300557\">\n14 years 5 months ago\n<a href=\"/node/300557\">A ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 183cde466b50122c4a4e21c248e9c73b539db98e2e2fde608b293a7f277e8b16 | Score: 81.5473
+{
+  "id" : "183cde466b50122c4a4e21c248e9c73b539db98e2e2fde608b293a7f277e8b16",
+  "contents" : "Meta-Modeling with Bayesian Networks to Facilitate Intelligent Use of Engineering Simulation – Bayesia bayesia logo\nBayesiaLab\nMeta Modeling with Bayesian Networks to Facilitate Intelligent Use of Engineering Simulation\n\n<h1>Meta-Modeling with Bayesian Networks to Facilitate Intelligent Use of Engineering Simulation</h1>\n\n<p>Presented at the <a href=\"/bayesialab/conferences/2018-conference-chica...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 55
+Query: boxing cardio training
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 30b411bcab5cda129b65125f4430a37cf89faf60f04384260390f593daf4666d | Score: 82.9994
+{
+  "id" : "30b411bcab5cda129b65125f4430a37cf89faf60f04384260390f593daf4666d",
+  "contents" : "Boxing Cardio: Quick & Effective Workout Routines • Hayabusa <p> FREE DOMESTIC SHIPPING || Buy Now, Pay Later With Sezzle</p>\n\n<p> FREE DOMESTIC SHIPPING || Buy Now, Pay Later With Sezzle</p>\n\n<h1>Quick Boxing Cardio Workouts For When You’re on the Go</h1>\n\n<p>When we hit the road, most of us forget or don’t have enough room to pack what we need for a workout. The good news is keeping yourself in...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: c82c18857f8f7d6febd52f2b752949416c75d4de8d5f20414c3791d022291c72 | Score: 82.9065
+{
+  "id" : "c82c18857f8f7d6febd52f2b752949416c75d4de8d5f20414c3791d022291c72",
+  "contents" : "Boxing Cardio Workouts: Best Way to Burn Calories • Hayabusa <p> FREE DOMESTIC SHIPPING || Buy Now, Pay Later With Sezzle</p>\n\n<p> FREE DOMESTIC SHIPPING || Buy Now, Pay Later With Sezzle</p>\n\n<h1>How To Burn Calories Fast with boxing Cardio Workouts</h1>\n\n<p>Cardio training is one of the most significant ways to drop pounds, but what are the best fitness exercises to burn the most calories? How ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: dffac48282ad874a01b64d9a9eaee7a4c62e8f6fc9e1dfcdab0ed47145025b6f | Score: 82.1973
+{
+  "id" : "dffac48282ad874a01b64d9a9eaee7a4c62e8f6fc9e1dfcdab0ed47145025b6f",
+  "contents" : "HIIT Boxing - Forest Hill\n\t\t <h1>HIIT BOXING</h1>\n\nHIIT Boxing: Combine power and cardio for an explosive workout at Forest Hill !\n\n<h2> HIIT BOXING <br></h2>\n\n<p>HIIT Boxing is a training method that combines high-intensity exercises (HIIT) with boxing techniques. HIIT Boxing sessions are designed to be dynamic and engaging, integrating boxing movements such as punches (jabs, hooks, uppercuts...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 56
+Query: post-traumatic stress disorder in military veterans
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 98bb2c1487e4084993230b3852f9a62f8aa0416345734f79c96e9726e0611a86 | Score: 86.6862
+{
+  "id" : "98bb2c1487e4084993230b3852f9a62f8aa0416345734f79c96e9726e0611a86",
+  "contents" : "Post Traumatic Stress Disorder In Combat Veterans - 1248 Words | Bartleby preview\n\n<h1>Post Traumatic Stress Disorder In Combat Veterans</h1>\n\nDecent Essays\n<a href=\"javascript:void(0);\">Open Document</a>\n\n<p>To effectively treat Post Traumatic Stress Disorder, PTSD in combat Veterans and service members, therapists use different techniques, which are preceded by addressing any underlying pain...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 61d9e8448626c0ad72849b0afeb0c135243aea8fb0246edae6d7bb3c960c523c | Score: 87.6942
+{
+  "id" : "61d9e8448626c0ad72849b0afeb0c135243aea8fb0246edae6d7bb3c960c523c",
+  "contents" : "Post Traumatic Stress Disorder ( Ptsd ) Essay - 2160 Words | Bartleby preview\n\n<h1>Post Traumatic Stress Disorder ( Ptsd ) Essay</h1>\n\nDecent Essays\n<a href=\"javascript:void(0);\">Open Document</a>\n\n<p>Brett Duval, a veteran bomb dog handler contracted to the United States Army, returned home after serving two tours in Iraq with the diagnosis of Post-Traumatic Stress Disorder (PTSD) (Duval, 201...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: ab98551e5dce818ffeae61d3cf0a4065a69d5f6c5e992454ebb637dfd2d91f41 | Score: 88.2064
+{
+  "id" : "ab98551e5dce818ffeae61d3cf0a4065a69d5f6c5e992454ebb637dfd2d91f41",
+  "contents" : "Post Traumatic Stress Disorder ( Ptsd ) - 1220 Words | Bartleby preview\n\n<h1>Post Traumatic Stress Disorder ( Ptsd )</h1>\n\nGood Essays\n<a href=\"javascript:void(0);\">Open Document</a>\n\n<p>Post-Traumatic Stress Disorder (PTSD) is a mental condition that is normally associated with military combat veterans. Specifically, it is classified as an anxiety disorder that sometimes occurs after being ex...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 57
+Query: symptoms of neurotic behaviour
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 1b162c077592d22e8a8260de310d6fbd0a1383d4dfbe26956602ab15df6980c0 | Score: 80.8861
+{
+  "id" : "1b162c077592d22e8a8260de310d6fbd0a1383d4dfbe26956602ab15df6980c0",
+  "contents" : "Litigation Neurosis: Factor or Fiction? A Review of Literature <ul>\n  <li>\n\n  <p>Cervical spine and minor head injuries are a frequent result of motor vehicle accidents. Injured persons often present with symptoms such as forgetfulness, irritability, cognitive deficits, sleeping difficulties, headaches, visual distiburances, and neck pain. Some physicians may be hard-pressed to account for these sym...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 8f32b5940498030c82648a6cacd8adb334fb6767a41d7a1386b31efa2d23bc1a | Score: 80.5733
+{
+  "id" : "8f32b5940498030c82648a6cacd8adb334fb6767a41d7a1386b31efa2d23bc1a",
+  "contents" : "Neuroticism | Psychology Today <a href=\"#block-pt-content\"> Skip to main content </a>\n\n<p>Neuroticism, one of the <a href=\"https://www.psychologytoday.com/us/basics/big-5-personality-traits\">Big 5</a> <a href=\"https://www.psychologytoday.com/us/basics/personality\">personality</a> traits, is typically defined as a tendency toward <a href=\"https://www.psychologytoday.com/us/basics/anxiety\">anxi...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 5ac1492a630ae132e38ea23d722367533de54f1323c0b3cb5c344e9e22f650d7 | Score: 80.5066
+{
+  "id" : "5ac1492a630ae132e38ea23d722367533de54f1323c0b3cb5c344e9e22f650d7",
+  "contents" : "Attention Deficit / Hyperactivity - ADHD - Toronto Naturopathic Clinic <h2>WHAT IS ADHD?</h2><br>\n\n<p>Attention deficit / hyperactivity disorder (ADHD) is the most commonly diagnosed neuro-biologically-based developmental and behavioural disorder of childhood, estimated to affect between 3% and 5% of school-aged children. Although many people occasionally have difficulty sitting still, paying attenti...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 59
+Query: Grow Potatoes
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 2ce50b47b723c97b5ad11051f728710d0fbb0abf0060731074677549ad3133b9 | Score: 82.0706
+{
+  "id" : "2ce50b47b723c97b5ad11051f728710d0fbb0abf0060731074677549ad3133b9",
+  "contents" : "Growing Potatoes <h1>Growing Potatoes</h1>\n\n<h3>How Potatoes are Grown</h3>\n\n<p>Potatoes are annual plants, meaning each year they are planted in the spring and harvested in the fall. Potatoes grow underground on a special stem called a ‘stolon.’ The potato stems above ground have attractive but non-edible flowers. Since the ‘root’ of the potato plant is not really a root but a stem, potatoes are a...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: a33489cf1769f0a0993f5affad88bc670b9d051d321f64e24aeb502ca4c5dd10 | Score: 81.9241
+{
+  "id" : "a33489cf1769f0a0993f5affad88bc670b9d051d321f64e24aeb502ca4c5dd10",
+  "contents" : "How to grow potatoes at home | World Cancer Research Fund <h1>Grow potatoes in a bucket</h1>\n\n<p>Do you like potatoes? It’s so exciting to be able to grow your own.</p>\n\n<p>Flower from the Eat Move Learn team holds a bucket of homegrown potatoesPotatoes are so easy to grow that you can plant them in a bucket. Why not give it a try? Potatoes are good for us as they contain vitamin C, which helps kee...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 074d7ceabe64f2a5b90fb0041171a2a7e92134519b4bd5ef233e363591c18230 | Score: 81.8027
+{
+  "id" : "074d7ceabe64f2a5b90fb0041171a2a7e92134519b4bd5ef233e363591c18230",
+  "contents" : "How To Grow Potatoes: Chitting, Planting & Harvesting <a href=\"/rss.xml\"></a>\n\n<h1>How To Grow Potatoes</h1>\n\nHow To Grow Potatoes\n\n<p>Are you interested in growing potatoes in a greenhouse? Then read on. Potatoes are renowned for their versatility and are fairly simple to grow.</p>\n\n<p>Although they need quite a lot of space, nutrients, and care, you don’t need a massive garden to grow them ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 61
+Query: Antibiotic resistance in bacterial infections
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 1b776b60b7b6f2be5a85d0f4d5770ccbf800cd4bdd40d1d7d16b295deef2065a | Score: 85.7104
+{
+  "id" : "1b776b60b7b6f2be5a85d0f4d5770ccbf800cd4bdd40d1d7d16b295deef2065a",
+  "contents" : "Antibiotic Resistance - NFID <p>Antibiotics can save lives and are important tools for treating common and serious bacterial infections. But it is important to use antibiotics only when needed and only as prescribed. Antibiotics are not effective against viral infections like colds, influenza (flu), most sore throats, bronchitis, and many sinus and ear infections. Widespread use of antibiotics for thes...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: aa96fd665a18210c160b71fbafeef04c5fe3badbb7c46b604b057af1ff707099 | Score: 86.1422
+{
+  "id" : "aa96fd665a18210c160b71fbafeef04c5fe3badbb7c46b604b057af1ff707099",
+  "contents" : "Global Antibiotic Resistance Market, By Drug Class (Oxazolidinones, Lipoglycopeptides, Tetracyclines, Cephalosporins, Others), By Disease (cUTI (Complicated Urinary Tract Infections), CDI (Clostridioides difficile Infection), ABSSSI (Acute bacterial skin  <h1>Global Antibiotic Resistance Market, By Drug Class (Oxazolidinones, Lipoglycopeptides, Tetracyclines, Cephalosporins, Others), By Disease (cUTI (...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 9a04d5b7e90ae6ced1f960a9ee50a1cfb7fe56cc914236905601b8976063ebd0 | Score: 86.4203
+{
+  "id" : "9a04d5b7e90ae6ced1f960a9ee50a1cfb7fe56cc914236905601b8976063ebd0",
+  "contents" : "Antibiotic Resistance: Antibiotic-Resistant Bacteria Diagnosis and Treatment <h1>Antibiotic Resistance (Drug Resistance, Antimicrobial Resistance)</h1>\n\nMedically Reviewed on 4/16/2024\n\n<p><a href=\"\"></p>\n\n<h3>What is antibiotic resistance?</h3>\n\n<p>\nantibiotic resistance\nAntibiotics are not effective in treating virus infections such as the common cold, influenza, or COVID.\n\n<p>Humans li...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 62
+Query: Training schedule half marathon
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 98b5a46d927ac8ca630f8fb0aa1112f7200bc6a8958168d64bf87793970434b9 | Score: 85.6474
+{
+  "id" : "98b5a46d927ac8ca630f8fb0aa1112f7200bc6a8958168d64bf87793970434b9",
+  "contents" : "Half Marathon Training Schedule For Beginners | POPSUGAR Fitness <h1>A 12-Week Half-Marathon Training Schedule For Beginners</h1>\n\n<a href=\"http://www.gettyimages.com\">Getty | Klaus Vedfelt</a>\nPhoto illustration by: Keila Gonzalez\n<a href=\"http://www.gettyimages.com\">Getty | Klaus Vedfelt</a>\nPhoto illustration by: Keila Gonzalez\n\n<p>So you <a href=\"https://www.popsugar.com/fitness/How-Sta...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 4842ed6b7bf38be4eac3bf7e70798aac58ca53cc6c9d7c227bc38d90ea1b441c | Score: 84.5701
+{
+  "id" : "4842ed6b7bf38be4eac3bf7e70798aac58ca53cc6c9d7c227bc38d90ea1b441c",
+  "contents" : "Training for a Half-Marathon on a Busy Schedule | Eagle Creek\n <h1>How To Train For a Half-Marathon On A Busy Schedule</h1>\n\nHow To Train For a Half Marathon On A Busy Schedule\n\n<p>Written by <a href=\"https://adventuretravelbuzz.com/\"> Patrick Gensel</a> on </p>\n\n<p>Patrick Gensel is a world-roaming, visual storyteller with a special place in his heart for action sports and the natural world. ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 6624ce1bfb180fa476cfc49d15cb3185dfee3a0fc21371e422678c00af1b75c2 | Score: 85.4356
+{
+  "id" : "6624ce1bfb180fa476cfc49d15cb3185dfee3a0fc21371e422678c00af1b75c2",
+  "contents" : "Intermediate 2 Half Marathon Training | Hal Higdon <h1>Half Marathon Training : Intermediate 2</h1>\n\n<h3>About the Intermediate 2 Program</h3>\n\n<p>The main difference between Half Marathon Intermediate 1 and Intermediate 2 is that this program (Intermediate 2) features one day of speedwork. Intermediate 1 &amp; 2 exist parallel to one another in different universes, like the Earth 1 and Earth 2 of ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 63
+Query: Focaccia recipe
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 1f1e0346c765d80ac57f3a3819ebcd6e80e5eccbfe5a109a9964db4257f77611 | Score: 82.3713
+{
+  "id" : "1f1e0346c765d80ac57f3a3819ebcd6e80e5eccbfe5a109a9964db4257f77611",
+  "contents" : "Focaccia Bread Recipe | Group Recipes <h2>Focaccia Bread</h2>\n\n9 recipes to browse.\n<a href=\"\">\n\n<p>\n<h6> Maybe List </h6>\n\n<p>When you're ready, we'll help you decide between similar recipes.</p>\n\nHolding 0 recipes"
+}...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 040458b800a668b5a62f407dc624b8ab62fa237259d122d4420dd1be6ced8f71 | Score: 83.4719
+{
+  "id" : "040458b800a668b5a62f407dc624b8ab62fa237259d122d4420dd1be6ced8f71",
+  "contents" : "Focaccia Bread Recipe - CooksRecipes.com <a href=\"https://www.pinterest.com/cooksrecipes\">Pinterest Follow Button</a>\n<a href=\"../category/family-favorite_recipes.html\">Family Favorite Recipes </a>Family Favorites\n<a href=\"https://www.mrespresso.com/\">Mr Espresso</a>\n<a href=\"https://www.facebook.com/pages/CooksRecipescom-Recipes-for-Every-Cook/268321322888\">like us on Facebook</a>\nPrint <b...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 25428bce219d04eb572036950df5357b76189e7e9952502394fc5cbb6226b422 | Score: 82.4884
+{
+  "id" : "25428bce219d04eb572036950df5357b76189e7e9952502394fc5cbb6226b422",
+  "contents" : "Fantastic focaccia bread - Astray Recipes <h1>Fantastic focaccia bread</h1>\n\n<p>1 Pie</p>\n\n<h2>Ingredients</h2>\n\nQuantityIngredient\n1pack10 oz frozen pizza crust\n2Garlic cloves pressed\n2cupsShredded Mozzerella cheese\ncupGrated Romano cheese\n2teaspoonsOregano\n2Plum Tomatoes\n\n<h2>Directions</h2>\n\n<p>Preheat oven to 375. Dip dough and a rolling pin in flour and evenly roll dough into a 12 ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 65
+Query: heatwaves elderly health
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 4484c056a7fa3ca23183637030862c624f27214e1747268175837e1f1395b261 | Score: 83.3355
+{
+  "id" : "4484c056a7fa3ca23183637030862c624f27214e1747268175837e1f1395b261",
+  "contents" : "Heatwave: an overview and advice on how to cope in hot weather | Hôpital de La Tour Caring for you as we would for ourselves\n14.02.20\n\n<h1>Heatwave: an overview and advice on how to cope in hot weather</h1>\n\nGeneral practice\n\n<h2>What is a heatwave and how does it affect your health?</h2>\n\n<p>A heatwave is a period of excessively hot weather when temperatures are above 33°C and do not drop bel...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 9b148c596c1aa3f69dc19546894ac0da5c29277c7210719d0e3ef6e4f461d150 | Score: 81.3851
+{
+  "id" : "9b148c596c1aa3f69dc19546894ac0da5c29277c7210719d0e3ef6e4f461d150",
+  "contents" : "It’s getting hot in here: how heatwaves impact health and ageing. at University of Leeds on FindAPhD.com\n <a href=\"https://www.findaphd.com/signups/?ct=1951\"> Don't miss our weekly PhD newsletter | Sign up now</a><a href=\"https://www.findaphd.com/signups/?ct=1951\"> Don't miss our weekly PhD newsletter | Sign up now</a>\n\n<h1><a href=\"javascript:void(0)\"></a><a href=\"javascript:void(0)\"></a>  ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 87d684358da6b4283d41128350b5d045d7119bfd4ab340ac263c9bdb27577224 | Score: 81.6158
+{
+  "id" : "87d684358da6b4283d41128350b5d045d7119bfd4ab340ac263c9bdb27577224",
+  "contents" : "To mitigate heatwave effects we must priortise innovations in RE  \n\n<h2>To mitigate heatwave effects we must priortise innovations in RE</h2>\n\n|\n<ul>\n  <li> 2\n<a href=\"javascript:void(0);\"></a></li>\n  <li><a href=\"#vuukle\"></a></li>\n</ul>\n\n<h2>To mitigate heatwave effects we must priortise innovations in RE</h2>\n\nWednesday, 24 July 2024 | Ratul Puri <br>\nTo mitigate heatwave effects w...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 66
+Query: historical games
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 9cb3dcb36ff1e8416802db1a83f01a1847baa1a9eac93ae2c5bb2ce9585be939 | Score: 81.3595
+{
+  "id" : "9cb3dcb36ff1e8416802db1a83f01a1847baa1a9eac93ae2c5bb2ce9585be939",
+  "contents" : "Historical Games, presented by the Society for Creative Anachronism –                CODCON XXVIII: April 18 – 20, 2025, SRC 2000, College of DuPage  <h1>Historical Games, presented by the Society for Creative Anachronism</h1>\n\nHistorical Games, presented by the Society for Creative Anachronism\n\n<h3>When</h3>\n\n04/14/24    \nAll Day\n\n<h3>Event Type</h3>\n\n<p>Have you ever wondered why we have s...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 03f9eb88128b7a5b2b0a30755c300427ad205ec34e8f00d5ef172e8755239a78 | Score: 81.0907
+{
+  "id" : "03f9eb88128b7a5b2b0a30755c300427ad205ec34e8f00d5ef172e8755239a78",
+  "contents" : "Teaching History with Video Games - AHA shutterstock_2239596683 2\n\n<h3>Teaching History with Video Games</h3>\n\n<p>Among the ways in which students encounter history today is through historical video games. This module aims to help teachers channel that engagement and use historical gaming as a lens to explore critical issues around gender and race that can illuminate the past in new ways. Tore Olss...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: b8f4452304643af106417f60b92b80b5f3fc58ab35d6d9d7a749fa32803d783b | Score: 80.7976
+{
+  "id" : "b8f4452304643af106417f60b92b80b5f3fc58ab35d6d9d7a749fa32803d783b",
+  "contents" : "Abandonware History games - My Abandonware <h1>Abandonware History games</h1>\n\nMore than 34300 old games to download for free!\n\n<h2>Browse games with theme History</h2>\n\n<p>History games are predominantly educational games with a focus on learning about history, historical persons and significant historical events.</p>\n\n<h3>History Games 1-15 of 242</h3>\n\n<a href=\"/game/3-d-dinosaur-adventur...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 67
+Query: health risks of microplastics in bottled water
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: e6f00c333818e7e58fdeb2fbb7465746e79daa88101707cfc68822c984cf4a18 | Score: 83.7926
+{
+  "id" : "e6f00c333818e7e58fdeb2fbb7465746e79daa88101707cfc68822c984cf4a18",
+  "contents" : "What are the disadvantages of drinking mineral spring water? <h1>Q. What are the disadvantages of drinking mineral spring water?</h1>\n\n<p>Answer</p>\n\n<p>Drinking mineral water is generally harmless, however, some types may have too much sodium for those on a restricted sodium diet. Furthermore, there are worries regarding the presence of microplastics in bottled mineral water. Early animal and test...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: a20462201892c65fc1b8329025c7c2c21ea021c2be673dcd2ca707053b9b5aff | Score: 85.1217
+{
+  "id" : "a20462201892c65fc1b8329025c7c2c21ea021c2be673dcd2ca707053b9b5aff",
+  "contents" : "Microplastics on Human Health: How much do they harm us? <a href=\"\">\n\n<h2> Microplastics on Human Health: How much do they harm us? </h2>\n\n<h6> June 5, 2023</h6>\n\n<p><br>\nIn recent years, a silent menace has emerged, threatening the environment and human health. Microplastics, tiny particles of plastic less than 5 millimeters in size, have infiltrated our oceans, soil, and even the air we brea...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 93a5cc30bb2b0853a3c4052d7940fd583a194d45ca65de8bf01bb25a2f06c544 | Score: 85.6457
+{
+  "id" : "93a5cc30bb2b0853a3c4052d7940fd583a194d45ca65de8bf01bb25a2f06c544",
+  "contents" : "Microplastic pollution and the potential health risks | CNN Plastic USE\n5 ways to cut your plastic waste\n01:30 - Source: <a href=\"https://www.cnn.com/\">CNN</a>\n01:30\nCNN  — \n\n<p> Chances are you’ve seen the photos of <a href=\"https://edition.cnn.com/2016/12/11/world/vanishing-walsh-plastic-albatross/index.html\">dead seabirds</a>, their stomachs filled with scraps of plastic foraged from beach...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 70
+Query: Impact of climate change on hurricanes
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 7f4cacdbb7a5f89d1d2160321719a3f1c623d4296645498e819c5401f0d786e0 | Score: 84.4333
+{
+  "id" : "7f4cacdbb7a5f89d1d2160321719a3f1c623d4296645498e819c5401f0d786e0",
+  "contents" : "Climate Change, Though Quite Real, Isn’t Spawning More Hurricanes <p>Historically warm average temperatures are significantly changing the weather, contributing to drought, wildfire, and flooding. Yet it is becoming increasingly common to attribute, at least in part, every weather-related disaster or anomaly to climate change.</p>\n\n<p>Atlantic hurricanes are a case in point. We saw records shattered ...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: aef7e69cbe107cf659c1324eaeb6913aaf04f8889cd97e0c9f99461597a69311 | Score: 83.1299
+{
+  "id" : "aef7e69cbe107cf659c1324eaeb6913aaf04f8889cd97e0c9f99461597a69311",
+  "contents" : "What impact does climate change really have on the powerful hurricanes Irma and Harvey that hit the Caribbean and the United States? – Centre for Climate Change Economics and Policy <h1>What impact does climate change really have on the powerful hurricanes Irma and Harvey that hit the Caribbean and the United States?</h1>\n\n<p>Posted on 11 Sep 2017 in </p>\n\n<p>BBC Mundo (Spanish language), 11 Septem...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: c78a1cd36f5b56a0d5f027d5f57a66863ae49504f681a2d02a13658f681c9e1e | Score: 83.4046
+{
+  "id" : "c78a1cd36f5b56a0d5f027d5f57a66863ae49504f681a2d02a13658f681c9e1e",
+  "contents" : "Climate Change Could Have a Negative Impact on Mental Health <p>The American Psychological Association, in partnership with ecoAmerica, has recently released a new report describing the potential impact of climate change on mental health.</p>\n\n<p>The report, titled <a href=\"https://ecoamerica.org/wp-content/uploads/2017/03/ea_apa_mental_health_report_web.pdf\">Mental Health and Our Changing Climate:...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 71
+Query: carbonated drinks bloated feeling
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: fb4385ceab7bc4525e9536813c0a84bfdc309a86215a0cfa41740c4d4783c8db | Score: 83.1525
+{
+  "id" : "fb4385ceab7bc4525e9536813c0a84bfdc309a86215a0cfa41740c4d4783c8db",
+  "contents" : "Common Causes Of Bloated Stomach And Indigestion | Gastrointestinal Disorders medical answers | Body & Health Conditions center | SteadyHealth.com <h3>Couldn't find what you looking for?</h3>\n\n<h2>TRY OUR SEARCH!</h2>\n\n<p> </p>\n\n<p>Feeling of fullness and indigestion are very common symptoms among general population. Everyone can experience bloated stomach once in a while, but if those symptoms r...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 1c6fdd9cf4aa4a6d64ac0f3ab151e9d30fa2ba9b1fb6469bae01d03df10291b2 | Score: 83.9232
+{
+  "id" : "1c6fdd9cf4aa4a6d64ac0f3ab151e9d30fa2ba9b1fb6469bae01d03df10291b2",
+  "contents" : "Nutritionist Shares Tips On How To Deal With Morning Bloating Advertisement\n\n<h1>Nutritionist Shares Tips On How To Deal With Morning Bloating</h1>\n\n<h2> Hormonal changes, carbonated beverages, too much sugar and salt, and a diet poor in fibre are common causes of bloating. </h2>\n\nNutritionist Shares Tips On How To Deal With Morning Bloating\nResearch shows that fingers and other body parts swell...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 1a06417aa116d87791b50edf7d9dfd3d96f65705ebe0e3860559276e6546c9a2 | Score: 83.2099
+{
+  "id" : "1a06417aa116d87791b50edf7d9dfd3d96f65705ebe0e3860559276e6546c9a2",
+  "contents" : "Belching, gas and bloating: Tips for reducing them - Mayo Clinic\n <h2>Belching, gas and bloating: Tips for reducing them</h2>\n\n<p>Belching, gas and bloating can be embarrassing and uncomfortable. Here's what causes these signs and symptoms — and how you can minimize them.</p>\n\n<a href=\"/about-this-site/meet-our-medical-editors\">By Mayo Clinic Staff</a>\n\n<p>Belching or passing gas, also called ...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 72
+Query: French Revolution
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: f497c31bbcb8ced218f0b4093194d8a9ac6ec7b34bf0b12204bb53c84695fba2 | Score: 81.9552
+{
+  "id" : "f497c31bbcb8ced218f0b4093194d8a9ac6ec7b34bf0b12204bb53c84695fba2",
+  "contents" : "The French Revolution PPT for 7th - 10th Grade | Lesson Planet PPT\n\n<h1>The French Revolution</h1>\n\nCurated and Reviewed by Lesson Planet\n<h5>This The French Revolution ppt also includes:</h5>\n\n<p> </p>\n\n<p> </p>\n\n<p>Starting with a quote by Charles Dickens from A Tale of Two Cities, the slides featured in this presentation go into thorough detail about the French Revolution. It includes por...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 4e0dc61ce2231b857810d0c6b3264bc54e7f8892f8448062f7257619c9454d54 | Score: 82.0734
+{
+  "id" : "4e0dc61ce2231b857810d0c6b3264bc54e7f8892f8448062f7257619c9454d54",
+  "contents" : "History of the French Revolution. July 14, 1789 by Jean Jaurès 1901 <p>Jean Jaurès, History of the French Revolution. 1901</p>\n\n<h3>July 14, 1789</h3>\n\n<p>The Revolution was in the making in many realms for decades. “For half a century the crown had been ceaselessly threatened by the state of its finances, its budget being almost constantly in a deficit.” The country’s “financial ills were too prof...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 5943d09d9cf3558a29e3031d17772ff1deed3a07990703d1ba40121196e21828 | Score: 82.5374
+{
+  "id" : "5943d09d9cf3558a29e3031d17772ff1deed3a07990703d1ba40121196e21828",
+  "contents" : "French Revolution | Bartleby <h1>French Revolution</h1>\n\nSort By:\nPage 1 of 50 - About 500 essays\n<ul>\n  <li>\nDecent Essays\n<a href=\"/essay/The-French-Revolution-The-Causes-Of-The-PYQWNWUMRQ6\"></a>\n\n  <p>The French Revolution French Revolution was a horrifying event that was from 1789 to 1799. The revolution overthrew the monarchy, established a republic and created political chaos. The fren...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 73
+Query: houseplants that don't need sun
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: e9bfacc69f74b6af39a3ae8605a4df949fc89283d8ee92ba957e2be6f129383e | Score: 82.6914
+{
+  "id" : "e9bfacc69f74b6af39a3ae8605a4df949fc89283d8ee92ba957e2be6f129383e",
+  "contents" : "How to Grow Air Plants That Don’t Need Soil to Survive <h1>How to Grow Air Plants That Don’t Need Soil to Survive</h1>\n\n<p>Learn the best way to grow air plants, the trendiest houseplants around that will thrive for years without any soil.</p>\n\n<p> Air plants seem almost otherworldly in the way they grow, well, just in air. Yep, no soil at all is required in order to grow air plants. Plus, their le...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: b606f205176d5b86223e1246764f5a3c69c43ebc5a6e5bfac3b056d5d6f2495e | Score: 83.1317
+{
+  "id" : "b606f205176d5b86223e1246764f5a3c69c43ebc5a6e5bfac3b056d5d6f2495e",
+  "contents" : "Time to bring houseplants indoors for the winter | Cape Gazette <a href=\"\">\n<a href=\"\"> <a href=\"\"> <a href=\"\"> <a href=\"\"> <a href=\"\"> <a href=\"\"> <a href=\"\"> <a href=\"https://www.addtoany.com/share#url=https%3A%2F%2Fwww.capegazette.com%2Farticle%2Ftime-bring-houseplants-indoors-winter%2F266881&amp;title=Time%20to%20bring%20houseplants%20indoors%20for%20the%20winter\">\nShare: \n\n<h...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 021467664e47580ec4788ed782a021a7a03ac598fbd6f004fb3eec3ad3268df5 | Score: 82.5198
+{
+  "id" : "021467664e47580ec4788ed782a021a7a03ac598fbd6f004fb3eec3ad3268df5",
+  "contents" : "The importance of grow lights for houseplants in winter | Homes and Gardens <h1>Do I need a grow light for my houseplants in winter? Our experts weigh in</h1>\n\n<p>Learn how to keep your indoor plants thriving during the darker months with this handy piece of kit</p>\n\nhouseplants on shelves\n(Image credit: Liudmila Chernetska / iStock / Getty Images Plus / Getty Images)\n\n<p>As the days shorten and...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 75
+Query: Canada wildlife
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: f23dfef324b814a72044d8457e6d62cb85f98bc2b431b3451acea3d243b6d439 | Score: 81.5437
+{
+  "id" : "f23dfef324b814a72044d8457e6d62cb85f98bc2b431b3451acea3d243b6d439",
+  "contents" : "Zenfolio | Kyla Black - Gathering Dust Photography | Canadian Wildlife Photography\n\t\t Canada is home to a diverse and amazing array of wildlife. From the powerful Grizzly Bear to the playful Red Fox to the captivating stare of the Great Horned Owl, you never know what you might be lucky to experience the next time you head into nature! These wildlife galleries feature images of species I have been a...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: 9b688869ead43c8b2034c7554374a09e7fef04ce9967016c6033493a64a6bfa6 | Score: 81.5021
+{
+  "id" : "9b688869ead43c8b2034c7554374a09e7fef04ce9967016c6033493a64a6bfa6",
+  "contents" : "PhotosCanada.com Gallery :: Canadian Wildlife Photos , Grizzly Bears, Bird Gallery, Bald Eagles,  Canadian Wildlife Stock Photos  Canadian Wildlife Photos , Grizzly Bears, Bird Gallery, Bald Eagles, Canadian Wildlife Stock Photos\n<a href=\"/index.html\"></a>\t\t <a href=\"/index.html\"></a>\t\t <a href=\"/gallery/\"> </a>\t\t <a href=\"/biography.html\"> </a>\t\t <a href=\"/contact_us.html\"></a>\t\t ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 6fc18d6ecc45d30245dd300cb6e5c07e08d12c57ded395b7424f95b5c79f59b8 | Score: 82.4628
+{
+  "id" : "6fc18d6ecc45d30245dd300cb6e5c07e08d12c57ded395b7424f95b5c79f59b8",
+  "contents" : "Best Time to Visit to Canada | When to Travel to Canada | Wildlife Trails <h1> Best Time to Visit Canada </h1>\n\n<p>Find out the best time to visit Canada, so you get the best bespoke wildlife experiences. Canada is a vast and spectacular wildlife destination and that geographical size and diversity of wildlife, gives it a longer wildlife viewing season than many destinations – especially for the curi...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 76
+Query: chat control directive
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 1dc55dde2844fcf0bab132e72d4a9a304a6b1b8b5f6ecc6a693f0c393bfef2ce | Score: 80.5454
+{
+  "id" : "1dc55dde2844fcf0bab132e72d4a9a304a6b1b8b5f6ecc6a693f0c393bfef2ce",
+  "contents" : "Chat control: all you need to know about the EU plan to scan all your WhatsApp chats | TechRadar <h1>Chat control: all you need to know about the EU plan to scan all your WhatsApp chats</h1>\n\nDigital generated image of abstract AI chat icons over digital surface.\n(Image credit: Andriy Onufriyenko/via Getty Images)\n\n<p>A controversial proposal to scan encrypted chats threatens Europeans' privacy in...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: f50c80cbc8bfab065c2787c7e9e5d4817088625e68cf08204148c9f3035c85e0 | Score: 80.3607
+{
+  "id" : "f50c80cbc8bfab065c2787c7e9e5d4817088625e68cf08204148c9f3035c85e0",
+  "contents" : "CCC | Chat Control: Horse Trading While Nobody is Watching <h2>Calendar</h2>\n\n<ul>\n</ul>\n\n<h2>Chat Control: Horse Trading While Nobody is Watching</h2>\n\n17 June, 2024 10:24, linus\n\n<p>The Belgian chairmanship of the EU Council wants to vote on chat control on Wednesday, June 19. After another shell game trick to make the massive attack on encryption in chat services appear otherwise, France's ...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 5c0f934fe78c8fa5b2d9fe903341a937bad1bef49fb1a4bd50c06fcafd272b23 | Score: 80.5560
+{
+  "id" : "5c0f934fe78c8fa5b2d9fe903341a937bad1bef49fb1a4bd50c06fcafd272b23",
+  "contents" : "Live Chat Supervision | Provide Support <a href=\"http://windows.microsoft.com/en-US/internet-explorer/\"> You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today. </a>\n\n<p> With Provide Support Live Chat you can supervise your live chat agents and control the chats quality to ensure your customers get professional assistance. Live chat supervision is necess...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 77
+Query: explainable AI
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: f1f4cfd6787da313cd3292f96217b9ea65518603f44dcf16008d69d21ac9a1be | Score: 82.3364
+{
+  "id" : "f1f4cfd6787da313cd3292f96217b9ea65518603f44dcf16008d69d21ac9a1be",
+  "contents" : "Explainable AI       \n     \n  <p>Explainable AI is a field that has emerged with the boom in machine learning and the opacity of the most precise models (such as deep neural networks). Human users of AI systems indeed need safeguards to avoid taking erroneous predictions as correct, and the ability to provide explanations of the predictions made is one way of rejecting such predictions. This need is ...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: c2a3786653580fa5ae3107131de1e6925d436a7453a2b87f23dda61d7603aaf6 | Score: 80.7732
+{
+  "id" : "c2a3786653580fa5ae3107131de1e6925d436a7453a2b87f23dda61d7603aaf6",
+  "contents" : "What Is Explainable AI, and Why It Matters for Small Business Small business owner reviewing AI analytics.\n\n<h1>What Is Explainable AI, and Why It Matters for Small Business</h1>\n\n<p>Share this Article on Social Media</p>"
+}...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 210ca0adf1993abb6dab18783793bf87be74377b3c50db472594cdfcc3811390 | Score: 82.4763
+{
+  "id" : "210ca0adf1993abb6dab18783793bf87be74377b3c50db472594cdfcc3811390",
+  "contents" : "What is Explainable AI (XAI)? | IBM <h1> What is explainable AI? </h1>\n\n<h4> 29 March 2023 </h4>\n\n<h2> What is explainable AI? </h2>\n\n<a href=\"\">\n\n<p>Explainable <a href=\"https://www.ibm.com/think/topics/artificial-intelligence\">artificial intelligence</a> (XAI) is a set of processes and methods that allows human users to comprehend and trust the results and output created by <a href=\"http...
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Query ID: 78
+Query: early detection of Alzheimer’s disease
+--------------------------------------------------------------------------------
+
+[Rank 1] Doc ID: 99d432ab01105ced783527d6fb4f2cbf5e86079646f9ca15db76fc9559e7a7be | Score: 85.0155
+{
+  "id" : "99d432ab01105ced783527d6fb4f2cbf5e86079646f9ca15db76fc9559e7a7be",
+  "contents" : "Alliance for Aging Research Releases Survey Results Highlighting Public Interest in Detecting Alzheimer’s Disease Early and Participating in Clinical Trials - Alliance for Aging Research  <a href=\"#top\"> Return to top of page </a>\n\n<h1> Alliance for Aging Research Releases Survey Results Highlighting Public Interest in Detecting Alzheimer’s Disease Early and Participating in Clinical Trials </h1>\n...
+--------------------------------------------------------------------------------
+
+[Rank 2] Doc ID: e3d5f2d49a22ba1149c818c792d5629003eec16cd05502390dab8f439e5ec7a1 | Score: 84.8545
+{
+  "id" : "e3d5f2d49a22ba1149c818c792d5629003eec16cd05502390dab8f439e5ec7a1",
+  "contents" : "Early detection of Alzheimer’s may start with simple test — Harvard Gazette <a href=\"https://news.harvard.edu/gazette/section/health/\"> Health </a>\n\n<h1> Sniffing out signs of trouble </h1>\n\nIlliustration of nose sniffing.\n3 min read\n\n<h2> Researchers develop at-home test to ID those at risk of Alzheimer’s years before symptoms appear </h2>\n\n<p>When it comes to early detection of cognitive i...
+--------------------------------------------------------------------------------
+
+[Rank 3] Doc ID: 015030dd36d0616c55366212fe97d60169a86a215e332929a37478a9b4c8ecdf | Score: 84.3527
+{
+  "id" : "015030dd36d0616c55366212fe97d60169a86a215e332929a37478a9b4c8ecdf",
+  "contents" : "New Saliva Test May Enable Of Early Detection of Alzheimer's | Mental Health articles | Emotional & Mental Health center | SteadyHealth.com <h3>Couldn't find what you looking for?</h3>\n\n<h2>TRY OUR SEARCH!</h2>\n\n<p> </p>\n\n<h2>Table of Contents</h2>\n\nAlzheimer's is often a disease that is not recognized until it is too late for its victims and their families to make preparations for long-term ca...
+--------------------------------------------------------------------------------
+
+================================================================================
+
