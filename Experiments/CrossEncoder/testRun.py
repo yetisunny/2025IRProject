@@ -3,9 +3,9 @@ import time
 import json
 from collections import defaultdict
 
-from pyserini.search.hybrid import HybridSearcher
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-21-openjdk"
 os.environ["PATH"] = os.environ["JAVA_HOME"] + "/bin:" + os.environ["PATH"]
+from pyserini.search.hybrid import HybridSearcher
 from pyserini.search.faiss import FaissSearcher
 from pyserini.search.lucene import LuceneSearcher
 from sentence_transformers import CrossEncoder
@@ -18,8 +18,8 @@ ir_datasets_owi.register()
 # Initialize searchers
 print("Initializing searchers...")
 init_start = time.time()
-dense_searcher = FaissSearcher('colbert_encoded_docs/', 'castorini/tct_colbert-v2-hnp-msmarco')
-sparse_searcher = LuceneSearcher('pyserini_indexes/owi_sample_lucineindex')
+dense_searcher = FaissSearcher('../../colbert_encoded_docs/', 'castorini/tct_colbert-v2-hnp-msmarco')
+sparse_searcher = LuceneSearcher('../../pyserini_indexes/owi_sample_lucineindex')
 hybrid_searcher = HybridSearcher(dense_searcher, sparse_searcher)
 reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 init_time = time.time() - init_start
@@ -38,7 +38,7 @@ def get_document_from_index(doc_id, searcher):
     except:
         return ""
 
-def retrieve_and_export_top_k(searcher, searcher_name, top_k=3, use_reranker=False, rerank_top_k=100):
+def retrieve_and_export_top_k(searcher, searcher_name, is_hybrid=False, top_k=3, use_reranker=False, rerank_top_k=100):
     """
     Retrieve top-k documents for each query and export to a file for manual evaluation
     """
@@ -57,8 +57,11 @@ def retrieve_and_export_top_k(searcher, searcher_name, top_k=3, use_reranker=Fal
         query_text = query.text
         
         try:
-            # Initial retrieval
-            hits = searcher.search(query_text, k=1000)
+            # Initial retrieval (hybrid searcher returns tuple, others return list)
+            if is_hybrid:
+                hits = searcher.search(query_text, k0=1000, k=1000, alpha=0.5)
+            else:
+                hits = searcher.search(query_text, k=1000)
             
             # Apply cross-encoder reranking if enabled
             if use_reranker and len(hits) > 0:
@@ -169,7 +172,7 @@ print("7. Run all methods")
 print("\n" + "="*80)
 print("Running BM25...")
 print("="*80)
-bm25_results = retrieve_and_export_top_k(sparse_searcher, "BM25", top_k=3, use_reranker=False)
+bm25_results = retrieve_and_export_top_k(sparse_searcher, "BM25", is_hybrid=False, top_k=3, use_reranker=False)
 
 # Run Hybrid + CrossEncoder (often the best performing)
 print("\n" + "="*80)
@@ -177,7 +180,8 @@ print("Running Hybrid + CrossEncoder...")
 print("="*80)
 hybrid_rerank_results = retrieve_and_export_top_k(
     hybrid_searcher, 
-    "Hybrid_CrossEncoder", 
+    "Hybrid_CrossEncoder",
+    is_hybrid=True,
     top_k=3, 
     use_reranker=True, 
     rerank_top_k=100
